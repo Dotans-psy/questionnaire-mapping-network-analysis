@@ -1,6 +1,6 @@
 # Questionnaire Mapping Network Analysis
 
-This project builds a publication-ready static questionnaire validity/correlation network for the self-reification questionnaire mapping project.
+This project builds publication-ready static questionnaire validity/correlation network figures for the self-reification questionnaire mapping project.
 
 The notebook reads `data/tier1_validity_extraction.xlsx`, cleans the extracted validity rows, and constructs a graph where nodes are questionnaires/scales and edges are significant empirical relationships.
 
@@ -56,11 +56,19 @@ Running the notebook writes:
 - `outputs/figures/self_concept_network.png`
 - `outputs/figures/self_concept_network.pdf`
 - `outputs/figures/self_concept_network.svg`
+- `outputs/figures/self_concept_cluster_network.png`
+- `outputs/figures/self_concept_cluster_network.pdf`
+- `outputs/figures/self_concept_cluster_network.svg`
+- `outputs/figures/essential_cluster_network.png`
+- `outputs/figures/essential_cluster_network.pdf`
+- `outputs/figures/essential_cluster_network.svg`
 - `outputs/tables/cleaned_network_edges.csv`
 - `outputs/tables/network_nodes.csv`
 - `outputs/tables/network_node_label_key.csv`
 - `outputs/tables/excluded_rows_QA.csv`
 - `outputs/tables/excluded_non_focal_related_questionnaires.csv`
+
+The combined figure shows the self-concept cluster, the essential cluster, and isolated nodes. The two cluster-specific figure files are generated in addition to the combined network figure.
 
 ## How To Run
 

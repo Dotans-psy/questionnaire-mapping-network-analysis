@@ -1,24 +1,69 @@
-questionnaire_key,questionnaire_label,node_origin,label_acronym,label_full_name,figure_label,is_connected,degree
-(bts): belief in true selves scale,(BTS): Belief in True Selves Scale,focal_questionnaire,(BTS),Belief in True Selves Scale,BTS,True,3
-(es): essentialist beliefs about human kinds scale,(ES): Essentialist Beliefs about Human Kinds Scale,focal_questionnaire,(ES),Essentialist Beliefs about Human Kinds Scale,ES,True,3
-(fsc): future self-continuity scale,(FSC): Future Self-Continuity scale,focal_questionnaire,(FSC),Future Self-Continuity scale,FSC,True,4
-(fscq): future self-continuity questionnaire,(FSCQ): Future Self-Continuity Questionnaire,focal_questionnaire,(FSCQ),Future Self-Continuity Questionnaire,FSCQ,True,2
-(iptheory - i): implicit person theory measure - intelligence,(IPTheory - I): Implicit person theory measure - intelligence,focal_questionnaire,(IPTheory - I),Implicit person theory measure - intelligence,IPT-I,True,3
-(iptheory - m): implicit person theory measure - morality,(IPTheory - M): Implicit person theory measure - morality,focal_questionnaire,(IPTheory - M),Implicit person theory measure - morality,IPT-M,True,2
-(iptheory - p): implicit person theory measure - personality,(IPTheory - P): Implicit person theory measure - personality,focal_questionnaire,(IPTheory - P),Implicit person theory measure - personality,IPT-P,True,3
-(iptheory - s): implicit person theory measure - specific abilities,(IPTheory - S): Implicit person theory measure - specific abilities,manual_related_inclusion,(IPTheory - S),Implicit person theory measure - specific abilities,IPT-S,True,3
-(iptheory): implicit person theory measure - domain general,(IPTheory): Implicit person theory measure - domain general,focal_questionnaire,(IPTheory),Implicit person theory measure - domain general,IPT,True,4
-(isk):integrative self-knowledge scale,(ISK):Integrative Self-Knowledge Scale,focal_questionnaire,(ISK),Integrative Self-Knowledge Scale,ISK,True,1
-(mtscs-fsc): multidimensional temporal self-continuity scale - future self-continuity,(MTSCS-FSC): Multidimensional Temporal Self-Continuity Scale - Future Self-Continuity,focal_questionnaire,(MTSCS-FSC),Multidimensional Temporal Self-Continuity Scale - Future Self-Continuity,MTSCS-FSC,True,2
-(mtscs-psc): multidimensional temporal self-continuity scale - past self-continuity,(MTSCS-PSC): Multidimensional Temporal Self-Continuity Scale - Past Self-Continuity,focal_questionnaire,(MTSCS-PSC),Multidimensional Temporal Self-Continuity Scale - Past Self-Continuity,MTSCS-PSC,True,2
-(phi): self-concept sorting task adapted for self concept compartmentalization,(Phi): Self-Concept sorting task adapted for self concept Compartmentalization,focal_questionnaire,(Phi),Self-Concept sorting task adapted for self concept Compartmentalization,Phi,True,1
-(psc-n): past self-continuity scale - narrativity,(PSC-N): Past Self-Continuity Scale - Narrativity,focal_questionnaire,(PSC-N),Past Self-Continuity Scale - Narrativity,PSC-N,True,3
-(psc-s): past self-continuity scale - stability,(PSC-S): Past Self-Continuity Scale - Stability,focal_questionnaire,(PSC-S),Past Self-Continuity Scale - Stability,PSC-S,True,3
-(pscq): past self-continuity questionnaire,(PSCQ): Past Self-Continuity Questionnaire,manual_related_inclusion,(PSCQ),Past Self-Continuity Questionnaire,PSCQ,True,6
-(scc): self-concept clarity scale,(SCC): Self-Concept Clarity Scale,focal_questionnaire,(SCC),Self-Concept Clarity Scale,SCC,True,4
-(scs): self-concept consistency scale,(SCS): Self-Concept Consistency scale,focal_questionnaire,(SCS),Self-Concept Consistency scale,SCS,False,0
-(seb): self-essentialist beliefs scale,(SEB): Self-Essentialist Beliefs Scale,focal_questionnaire,(SEB),Self-Essentialist Beliefs Scale,SEB,True,4
-(ses): self-essentialism scale,(SES): Self-Essentialism Scale,focal_questionnaire,(SES),Self-Essentialism Scale,SES,True,1
-scd (r): self-concept differentiation index campbell,SCD (R): self-concept differentiation index campbell,focal_questionnaire,SCD (R),self-concept differentiation index campbell,SCD-R,True,4
-scd (sd): self-concept differentiation index by styła,SCD (SD): Self-Concept Differentiation index by Styła,focal_questionnaire,SCD (SD),Self-Concept Differentiation index by Styła,SCD-SD,True,3
-scd (var): self-concept differentiation index by donahue,SCD (VAR): Self-Concept Differentiation index by donahue,focal_questionnaire,SCD (VAR),Self-Concept Differentiation index by donahue,SCD-VAR,True,3
+questionnaire_key,questionnaire_label,node_origin,label_acronym,label_full_name,short_label,plot_label,is_connected,degree
+(bts): belief in true selves scale,(BTS): Belief in True Selves Scale,focal_questionnaire,(BTS),Belief in True Selves Scale,BTS,"(BTS):
+Belief in True Selves Scale",True,3
+(es): essentialist beliefs about human kinds scale,(ES): Essentialist Beliefs about Human Kinds Scale,focal_questionnaire,(ES),Essentialist Beliefs about Human Kinds Scale,ES,"(ES):
+Essentialist Beliefs about
+Human Kinds Scale",True,3
+(fsc): future self-continuity scale,(FSC): Future Self-Continuity scale,focal_questionnaire,(FSC),Future Self-Continuity scale,FSC,"(FSC):
+Future Self-Continuity scale",True,4
+(fscq): future self-continuity questionnaire,(FSCQ): Future Self-Continuity Questionnaire,focal_questionnaire,(FSCQ),Future Self-Continuity Questionnaire,FSCQ,"(FSCQ):
+Future Self-Continuity
+Questionnaire",True,2
+(iptheory - i): implicit person theory measure - intelligence,(IPTheory - I): Implicit person theory measure - intelligence,focal_questionnaire,(IPTheory - I),Implicit person theory measure - intelligence,IPT-I,"(IPTheory - I):
+Implicit person theory
+measure - intelligence",True,3
+(iptheory - m): implicit person theory measure - morality,(IPTheory - M): Implicit person theory measure - morality,focal_questionnaire,(IPTheory - M),Implicit person theory measure - morality,IPT-M,"(IPTheory - M):
+Implicit person theory
+measure - morality",True,2
+(iptheory - p): implicit person theory measure - personality,(IPTheory - P): Implicit person theory measure - personality,focal_questionnaire,(IPTheory - P),Implicit person theory measure - personality,IPT-P,"(IPTheory - P):
+Implicit person theory
+measure - personality",True,3
+(iptheory - s): implicit person theory measure - specific abilities,(IPTheory - S): Implicit person theory measure - specific abilities,manual_related_inclusion,(IPTheory - S),Implicit person theory measure - specific abilities,IPT-S,"(IPTheory - S):
+Implicit person theory
+measure - specific abilities",True,3
+(iptheory): implicit person theory measure - domain general,(IPTheory): Implicit person theory measure - domain general,focal_questionnaire,(IPTheory),Implicit person theory measure - domain general,IPT,"(IPTheory):
+Implicit person theory
+measure - domain general",True,4
+(isk):integrative self-knowledge scale,(ISK):Integrative Self-Knowledge Scale,focal_questionnaire,(ISK),Integrative Self-Knowledge Scale,ISK,"(ISK):
+Integrative Self-Knowledge
+Scale",True,1
+(mtscs-fsc): multidimensional temporal self-continuity scale - future self-continuity,(MTSCS-FSC): Multidimensional Temporal Self-Continuity Scale - Future Self-Continuity,focal_questionnaire,(MTSCS-FSC),Multidimensional Temporal Self-Continuity Scale - Future Self-Continuity,MTSCS-FSC,"(MTSCS-FSC):
+Multidimensional Temporal
+Self-Continuity Scale -
+Future Self-Continuity",True,2
+(mtscs-psc): multidimensional temporal self-continuity scale - past self-continuity,(MTSCS-PSC): Multidimensional Temporal Self-Continuity Scale - Past Self-Continuity,focal_questionnaire,(MTSCS-PSC),Multidimensional Temporal Self-Continuity Scale - Past Self-Continuity,MTSCS-PSC,"(MTSCS-PSC):
+Multidimensional Temporal
+Self-Continuity Scale - Past
+Self-Continuity",True,2
+(phi): self-concept sorting task adapted for self concept compartmentalization,(Phi): Self-Concept sorting task adapted for self concept Compartmentalization,focal_questionnaire,(Phi),Self-Concept sorting task adapted for self concept Compartmentalization,Phi,"(Phi):
+Self-Concept sorting task
+adapted for self concept
+Compartmentalization",True,1
+(psc-n): past self-continuity scale - narrativity,(PSC-N): Past Self-Continuity Scale - Narrativity,focal_questionnaire,(PSC-N),Past Self-Continuity Scale - Narrativity,PSC-N,"(PSC-N):
+Past Self-Continuity Scale -
+Narrativity",True,3
+(psc-s): past self-continuity scale - stability,(PSC-S): Past Self-Continuity Scale - Stability,focal_questionnaire,(PSC-S),Past Self-Continuity Scale - Stability,PSC-S,"(PSC-S):
+Past Self-Continuity Scale -
+Stability",True,3
+(pscq): past self-continuity questionnaire,(PSCQ): Past Self-Continuity Questionnaire,manual_related_inclusion,(PSCQ),Past Self-Continuity Questionnaire,PSCQ,"(PSCQ):
+Past Self-Continuity
+Questionnaire",True,6
+(scc): self-concept clarity scale,(SCC): Self-Concept Clarity Scale,focal_questionnaire,(SCC),Self-Concept Clarity Scale,SCC,"(SCC):
+Self-Concept Clarity Scale",True,4
+(scs): self-concept consistency scale,(SCS): Self-Concept Consistency scale,focal_questionnaire,(SCS),Self-Concept Consistency scale,SCS,"(SCS):
+Self-Concept Consistency
+scale",False,0
+(seb): self-essentialist beliefs scale,(SEB): Self-Essentialist Beliefs Scale,focal_questionnaire,(SEB),Self-Essentialist Beliefs Scale,SEB,"(SEB):
+Self-Essentialist Beliefs
+Scale",True,4
+(ses): self-essentialism scale,(SES): Self-Essentialism Scale,focal_questionnaire,(SES),Self-Essentialism Scale,SES,"(SES):
+Self-Essentialism Scale",True,1
+scd (r): self-concept differentiation index campbell,SCD (R): self-concept differentiation index campbell,focal_questionnaire,SCD (R),self-concept differentiation index campbell,SCD-R,"SCD (R):
+self-concept differentiation
+index campbell",True,4
+scd (sd): self-concept differentiation index by styła,SCD (SD): Self-Concept Differentiation index by Styła,focal_questionnaire,SCD (SD),Self-Concept Differentiation index by Styła,SCD-SD,"SCD (SD):
+Self-Concept Differentiation
+index by Styła",True,3
+scd (var): self-concept differentiation index by donahue,SCD (VAR): Self-Concept Differentiation index by donahue,focal_questionnaire,SCD (VAR),Self-Concept Differentiation index by donahue,SCD-VAR,"SCD (VAR):
+Self-Concept Differentiation
+index by donahue",True,3
