@@ -1,14 +1,20 @@
 # Questionnaire Mapping Network Analysis
 
-This project builds a questionnaire validity/correlation network for the self-reification questionnaire mapping project.
+This project builds a publication-ready static questionnaire validity/correlation network for the self-reification questionnaire mapping project.
 
 The notebook reads `data/tier1_validity_extraction.xlsx`, cleans the extracted validity rows, and constructs a graph where nodes are questionnaires/scales and edges are significant empirical relationships.
 
 ## Core Rule
 
-Only questionnaires that appear in the `focal_questionnaire` column are allowed to become graph nodes.
+The default node universe is all questionnaires that appear in the `focal_questionnaire` column.
 
-Rows where `related_questionnaire` names an outside questionnaire are excluded from the graph unless that questionnaire also appears somewhere in `focal_questionnaire`. These excluded rows are saved separately for QA.
+The current manuscript figure also includes three explicit related-only questionnaire exceptions from `related_questionnaire`:
+
+- `(PSCQ): Past Self-Continuity Questionnaire`
+- `(ES): Essentialist Beliefs about Human Kinds Scale`
+- `(IPTheory - S): Implicit person theory measure - specific abilities`
+
+Rows where `related_questionnaire` names any other outside questionnaire are excluded from the graph unless that questionnaire also appears somewhere in `focal_questionnaire`. These excluded rows are saved separately for QA.
 
 ## Expected Input
 
@@ -38,18 +44,21 @@ An edge is included only when all of the following are true:
   - `convergent_validity`
   - `regression_semipartial correlation`
 - `relation_value` can be parsed as a numeric correlation-like value.
-- Both `focal_questionnaire` and `related_questionnaire` are in the focal questionnaire set.
+- `focal_questionnaire` is in the focal questionnaire set.
+- `related_questionnaire` is either in the focal questionnaire set or one of the three explicitly included related-only questionnaires.
 
-All focal questionnaires are included as nodes, including isolated questionnaires with no eligible edges.
+All focal questionnaires are included as nodes, including isolated questionnaires with no eligible edges. The three explicitly included related-only questionnaires are also included as graph nodes.
 
 ## Outputs
 
 Running the notebook writes:
 
-- `outputs/figures/self_concept_network.html`
 - `outputs/figures/self_concept_network.png`
+- `outputs/figures/self_concept_network.pdf`
+- `outputs/figures/self_concept_network.svg`
 - `outputs/tables/cleaned_network_edges.csv`
 - `outputs/tables/network_nodes.csv`
+- `outputs/tables/network_node_label_key.csv`
 - `outputs/tables/excluded_rows_QA.csv`
 - `outputs/tables/excluded_non_focal_related_questionnaires.csv`
 
@@ -81,4 +90,3 @@ git remote add origin git@github.com:YOUR_USERNAME/questionnaire_mapping_network
 git branch -M main
 git push -u origin main
 ```
-
