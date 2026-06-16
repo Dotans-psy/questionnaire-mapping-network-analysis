@@ -5,6 +5,7 @@ __pycache__/
 
 .ipynb_checkpoints/
 .jupyter/
+.idea/
 
 .venv/
 venv/
@@ -16,4 +17,3 @@ ENV/
 .ruff_cache/
 
 *.log
-
