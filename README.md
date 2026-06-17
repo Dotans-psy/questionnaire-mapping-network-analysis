@@ -53,22 +53,22 @@ All focal questionnaires are included as nodes, including isolated questionnaire
 
 Running the notebook writes:
 
-- `outputs/figures/self_concept_network.png`
-- `outputs/figures/self_concept_network.pdf`
-- `outputs/figures/self_concept_network.svg`
+- `outputs/figures/self questionnaires mapping network.png`
+- `outputs/figures/self questionnaires mapping network.pdf`
+- `outputs/figures/self questionnaires mapping network.svg`
 - `outputs/figures/self_concept_cluster_network.png`
 - `outputs/figures/self_concept_cluster_network.pdf`
 - `outputs/figures/self_concept_cluster_network.svg`
-- `outputs/figures/essential_cluster_network.png`
-- `outputs/figures/essential_cluster_network.pdf`
-- `outputs/figures/essential_cluster_network.svg`
+- `outputs/figures/essentialism_cluster_network.png`
+- `outputs/figures/essentialism_cluster_network.pdf`
+- `outputs/figures/essentialism_cluster_network.svg`
 - `outputs/tables/cleaned_network_edges.csv`
 - `outputs/tables/network_nodes.csv`
 - `outputs/tables/network_node_label_key.csv`
 - `outputs/tables/excluded_rows_QA.csv`
 - `outputs/tables/excluded_non_focal_related_questionnaires.csv`
 
-The combined figure shows the self-concept cluster, the essential cluster, and isolated nodes. The two cluster-specific figure files are generated in addition to the combined network figure.
+The combined figure shows the self-concept cluster, the essentialism cluster, and isolated nodes. The two cluster-specific figure files are generated in addition to the combined network figure.
 
 ## How To Run
 
