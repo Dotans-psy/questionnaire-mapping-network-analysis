@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="748.728pt" height="660.203201pt" viewBox="0 0 748.728 660.203201" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-06-30T14:15:33.168835</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 660.203201 
+L 748.728 660.203201 
+L 748.728 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="LineCollection_1">
+    <path d="M 517.19229 272.502138 
+L 624.650562 255.342443 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke-dasharray: 6.0754,2.6272; stroke-dashoffset: 0; stroke: #0072b2; stroke-opacity: 0.78; stroke-width: 1.642"/>
+   </g>
+   <g id="LineCollection_2">
+    <path d="M 371.681878 395.336605 
+L 271.577484 407.817125 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 1.746"/>
+    <path d="M 371.681878 395.336605 
+L 296.287614 345.868391 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 1.954"/>
+    <path d="M 371.681878 395.336605 
+L 478.118786 362.773405 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 5.334"/>
+    <path d="M 211.913189 351.107254 
+L 271.577484 407.817125 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 1.07"/>
+    <path d="M 211.913189 351.107254 
+L 296.287614 345.868391 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 1.746"/>
+    <path d="M 395.633287 229.639033 
+L 365.852947 133.496911 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 4.346"/>
+    <path d="M 395.633287 229.639033 
+L 424.146452 132.675595 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 5.23"/>
+    <path d="M 395.633287 229.639033 
+L 517.19229 272.502138 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #0072b2; stroke-opacity: 0.78; stroke-width: 2.162"/>
+    <path d="M 395.633287 229.639033 
+L 296.287614 345.868391 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 1.85"/>
+    <path d="M 296.287614 345.868391 
+L 271.577484 407.817125 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 2.942"/>
+    <path d="M 296.287614 345.868391 
+L 204.867822 442.482589 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 2.162"/>
+    <path d="M 478.118786 362.773405 
+L 517.19229 272.502138 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 3.358"/>
+    <path d="M 271.577484 407.817125 
+L 204.867822 442.482589 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 2.63"/>
+    <path d="M 424.146452 132.675595 
+L 365.852947 133.496911 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 3.046"/>
+    <path d="M 124.077438 513.254552 
+L 204.867822 442.482589 
+" clip-path="url(#pa0023879d2)" style="fill: none; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 2.578"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="7.2" y="14.480273" transform="rotate(-0 7.2 14.480273)">Cluster 04: NFCC, IPT, SEB, BTS</text>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_1">
+     <path d="M 140.172984 646.27992 
+L 147.172984 646.27992 
+L 154.172984 646.27992 
+" style="fill: none; stroke: #d55e00; stroke-width: 2.4; stroke-linecap: square"/>
+    </g>
+    <g id="text_2">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="159.772984" y="648.72992" transform="rotate(-0 159.772984 648.72992)">Positive relation</text>
+    </g>
+    <g id="line2d_2">
+     <path d="M 223.184234 646.27992 
+L 230.184234 646.27992 
+L 237.184234 646.27992 
+" style="fill: none; stroke: #0072b2; stroke-width: 2.4; stroke-linecap: square"/>
+    </g>
+    <g id="text_3">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="242.784234" y="648.72992" transform="rotate(-0 242.784234 648.72992)">Negative relation</text>
+    </g>
+    <g id="line2d_3">
+     <path d="M 309.311578 646.27992 
+L 316.311578 646.27992 
+L 323.311578 646.27992 
+" style="fill: none"/>
+     <defs>
+      <path id="md89621e2bc" d="M -4 4 
+L 4 4 
+L 4 -4 
+L -4 -4 
+z
+" style="stroke: #333333; stroke-linejoin: miter"/>
+     </defs>
+     <g>
+      <use xlink:href="#md89621e2bc" x="316.311578" y="646.27992" style="fill: #f8f8f8; stroke: #333333; stroke-linejoin: miter"/>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="328.911578" y="648.72992" transform="rotate(-0 328.911578 648.72992)">Tier 1 node</text>
+    </g>
+    <g id="line2d_4">
+     <path d="M 378.059234 646.27992 
+L 385.059234 646.27992 
+L 392.059234 646.27992 
+" style="fill: none"/>
+     <defs>
+      <path id="mfa46a59fdb" d="M 0 4 
+C 1.060812 4 2.078319 3.578535 2.828427 2.828427 
+C 3.578535 2.078319 4 1.060812 4 0 
+C 4 -1.060812 3.578535 -2.078319 2.828427 -2.828427 
+C 2.078319 -3.578535 1.060812 -4 0 -4 
+C -1.060812 -4 -2.078319 -3.578535 -2.828427 -2.828427 
+C -3.578535 -2.078319 -4 -1.060812 -4 0 
+C -4 1.060812 -3.578535 2.078319 -2.828427 2.828427 
+C -2.078319 3.578535 -1.060812 4 0 4 
+z
+" style="stroke: #333333"/>
+     </defs>
+     <g>
+      <use xlink:href="#mfa46a59fdb" x="385.059234" y="646.27992" style="fill: #f8f8f8; stroke: #333333"/>
+     </g>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="397.659234" y="648.72992" transform="rotate(-0 397.659234 648.72992)">Tier 2 node</text>
+    </g>
+    <g id="line2d_5">
+     <path d="M 446.806891 646.27992 
+L 453.806891 646.27992 
+L 460.806891 646.27992 
+" style="fill: none; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #555555; stroke-width: 2"/>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="466.406891" y="648.72992" transform="rotate(-0 466.406891 648.72992)">Convergent validity</text>
+    </g>
+    <g id="line2d_6">
+     <path d="M 539.934234 646.27992 
+L 546.934234 646.27992 
+L 553.934234 646.27992 
+" style="fill: none; stroke: #555555; stroke-width: 2; stroke-linecap: square"/>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="559.534234" y="648.72992" transform="rotate(-0 559.534234 648.72992)">Correlation only</text>
+    </g>
+   </g>
+   <g id="text_8">
+    <g id="patch_2">
+     <path d="M 316.842067 409.620501 
+L 327.949489 409.620501 
+Q 328.325489 409.620501 328.325489 409.244501 
+L 328.325489 404.833661 
+Q 328.325489 404.457661 327.949489 404.457661 
+L 316.842067 404.457661 
+Q 316.466067 404.457661 316.466067 404.833661 
+L 316.466067 409.244501 
+Q 316.466067 409.620501 316.842067 409.620501 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="322.395778" y="408.25539" transform="rotate(-0 322.395778 408.25539)">r=.23</text>
+   </g>
+   <g id="text_9">
+    <g id="patch_3">
+     <path d="M 325.092962 377.706358 
+L 336.200384 377.706358 
+Q 336.576384 377.706358 336.576384 377.330358 
+L 336.576384 372.919519 
+Q 336.576384 372.543519 336.200384 372.543519 
+L 325.092962 372.543519 
+Q 324.716962 372.543519 324.716962 372.919519 
+L 324.716962 377.330358 
+Q 324.716962 377.706358 325.092962 377.706358 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="330.646673" y="376.341247" transform="rotate(-0 330.646673 376.341247)">r=.27</text>
+   </g>
+   <g id="text_10">
+    <g id="patch_4">
+     <path d="M 421.15032 386.877184 
+L 432.257742 386.877184 
+Q 432.633742 386.877184 432.633742 386.501184 
+L 432.633742 382.090344 
+Q 432.633742 381.714344 432.257742 381.714344 
+L 421.15032 381.714344 
+Q 420.77432 381.714344 420.77432 382.090344 
+L 420.77432 386.501184 
+Q 420.77432 386.877184 421.15032 386.877184 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="426.704031" y="385.512073" transform="rotate(-0 426.704031 385.512073)">r=.92</text>
+   </g>
+   <g id="text_11">
+    <g id="patch_5">
+     <path d="M 232.042712 385.923819 
+L 243.150134 385.923819 
+Q 243.526134 385.923819 243.526134 385.547819 
+L 243.526134 381.13698 
+Q 243.526134 380.76098 243.150134 380.76098 
+L 232.042712 380.76098 
+Q 231.666712 380.76098 231.666712 381.13698 
+L 231.666712 385.547819 
+Q 231.666712 385.923819 232.042712 385.923819 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="237.596423" y="384.558708" transform="rotate(-0 237.596423 384.558708)">r=.10</text>
+   </g>
+   <g id="text_12">
+    <g id="patch_6">
+     <path d="M 248.930712 356.567099 
+L 260.038134 356.567099 
+Q 260.414134 356.567099 260.414134 356.191099 
+L 260.414134 351.780259 
+Q 260.414134 351.404259 260.038134 351.404259 
+L 248.930712 351.404259 
+Q 248.554712 351.404259 248.554712 351.780259 
+L 248.554712 356.191099 
+Q 248.554712 356.567099 248.930712 356.567099 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="254.484423" y="355.201988" transform="rotate(-0 254.484423 355.201988)">r=.23</text>
+   </g>
+   <g id="text_13">
+    <g id="patch_7">
+     <path d="M 380.798953 182.604818 
+L 391.906375 182.604818 
+Q 392.282375 182.604818 392.282375 182.228818 
+L 392.282375 177.817978 
+Q 392.282375 177.441978 391.906375 177.441978 
+L 380.798953 177.441978 
+Q 380.422953 177.441978 380.422953 177.817978 
+L 380.422953 182.228818 
+Q 380.422953 182.604818 380.798953 182.604818 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="386.352664" y="181.239707" transform="rotate(-0 386.352664 181.239707)">r=.73</text>
+   </g>
+   <g id="text_14">
+    <g id="patch_8">
+     <path d="M 409.967601 185.210782 
+L 421.075023 185.210782 
+Q 421.451023 185.210782 421.451023 184.834782 
+L 421.451023 180.423942 
+Q 421.451023 180.047942 421.075023 180.047942 
+L 409.967601 180.047942 
+Q 409.591601 180.047942 409.591601 180.423942 
+L 409.591601 184.834782 
+Q 409.591601 185.210782 409.967601 185.210782 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="415.521312" y="183.845671" transform="rotate(-0 415.521312 183.845671)">r=.90</text>
+   </g>
+   <g id="text_15">
+    <g id="patch_9">
+     <path d="M 452.12369 248.491345 
+L 464.796065 248.491345 
+Q 465.172065 248.491345 465.172065 248.115345 
+L 465.172065 243.704505 
+Q 465.172065 243.328505 464.796065 243.328505 
+L 452.12369 243.328505 
+Q 451.74769 243.328505 451.74769 243.704505 
+L 451.74769 248.115345 
+Q 451.74769 248.491345 452.12369 248.491345 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="458.459878" y="247.126234" transform="rotate(-0 458.459878 247.126234)">r=-.31</text>
+   </g>
+   <g id="text_16">
+    <g id="patch_10">
+     <path d="M 335.856503 286.877872 
+L 346.963925 286.877872 
+Q 347.339925 286.877872 347.339925 286.501872 
+L 347.339925 282.091032 
+Q 347.339925 281.715032 346.963925 281.715032 
+L 335.856503 281.715032 
+Q 335.480503 281.715032 335.480503 282.091032 
+L 335.480503 286.501872 
+Q 335.480503 286.877872 335.856503 286.877872 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="341.410214" y="285.51276" transform="rotate(-0 341.410214 285.51276)">r=.25</text>
+   </g>
+   <g id="text_17">
+    <g id="patch_11">
+     <path d="M 272.908987 377.484708 
+L 284.016409 377.484708 
+Q 284.392409 377.484708 284.392409 377.108708 
+L 284.392409 372.697868 
+Q 284.392409 372.321868 284.016409 372.321868 
+L 272.908987 372.321868 
+Q 272.532987 372.321868 272.532987 372.697868 
+L 272.532987 377.108708 
+Q 272.532987 377.484708 272.908987 377.484708 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="278.462698" y="376.119596" transform="rotate(-0 278.462698 376.119596)">r=.46</text>
+   </g>
+   <g id="text_18">
+    <g id="patch_12">
+     <path d="M 240.663284 393.088966 
+L 251.770706 393.088966 
+Q 252.146706 393.088966 252.146706 392.712966 
+L 252.146706 388.302126 
+Q 252.146706 387.926126 251.770706 387.926126 
+L 240.663284 387.926126 
+Q 240.287284 387.926126 240.287284 388.302126 
+L 240.287284 392.712966 
+Q 240.287284 393.088966 240.663284 393.088966 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="246.216995" y="391.723854" transform="rotate(-0 246.216995 391.723854)">r=.31</text>
+   </g>
+   <g id="text_19">
+    <g id="patch_13">
+     <path d="M 497.512484 322.301033 
+L 508.619906 322.301033 
+Q 508.995906 322.301033 508.995906 321.925033 
+L 508.995906 317.514193 
+Q 508.995906 317.138193 508.619906 317.138193 
+L 497.512484 317.138193 
+Q 497.136484 317.138193 497.136484 317.514193 
+L 497.136484 321.925033 
+Q 497.136484 322.301033 497.512484 322.301033 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="503.066195" y="320.935922" transform="rotate(-0 503.066195 320.935922)">r=.54</text>
+   </g>
+   <g id="text_20">
+    <g id="patch_14">
+     <path d="M 235.489761 432.556661 
+L 246.597183 432.556661 
+Q 246.973183 432.556661 246.973183 432.180661 
+L 246.973183 427.769821 
+Q 246.973183 427.393821 246.597183 427.393821 
+L 235.489761 427.393821 
+Q 235.113761 427.393821 235.113761 427.769821 
+L 235.113761 432.180661 
+Q 235.113761 432.556661 235.489761 432.556661 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="241.043472" y="431.19155" transform="rotate(-0 241.043472 431.19155)">r=.40</text>
+   </g>
+   <g id="text_21">
+    <g id="patch_15">
+     <path d="M 389.358669 130.158522 
+L 400.466091 130.158522 
+Q 400.842091 130.158522 400.842091 129.782522 
+L 400.842091 125.371682 
+Q 400.842091 124.995682 400.466091 124.995682 
+L 389.358669 124.995682 
+Q 388.982669 124.995682 388.982669 125.371682 
+L 388.982669 129.782522 
+Q 388.982669 130.158522 389.358669 130.158522 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="394.91238" y="128.793411" transform="rotate(-0 394.91238 128.793411)">r=.48</text>
+   </g>
+   <g id="text_22">
+    <g id="patch_16">
+     <path d="M 154.941202 476.413563 
+L 166.048624 476.413563 
+Q 166.424624 476.413563 166.424624 476.037563 
+L 166.424624 471.626723 
+Q 166.424624 471.250723 166.048624 471.250723 
+L 154.941202 471.250723 
+Q 154.565202 471.250723 154.565202 471.626723 
+L 154.565202 476.037563 
+Q 154.565202 476.413563 154.941202 476.413563 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="160.494913" y="475.048451" transform="rotate(-0 160.494913 475.048451)">r=.39</text>
+   </g>
+   <g id="text_23">
+    <g id="patch_17">
+     <path d="M 563.609358 261.071311 
+L 576.281733 261.071311 
+Q 576.657733 261.071311 576.657733 260.695311 
+L 576.657733 256.284471 
+Q 576.657733 255.908471 576.281733 255.908471 
+L 563.609358 255.908471 
+Q 563.233358 255.908471 563.233358 256.284471 
+L 563.233358 260.695311 
+Q 563.233358 261.071311 563.609358 261.071311 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 4.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="569.945546" y="259.7062" transform="rotate(-0 569.945546 259.7062)">r=-.21</text>
+   </g>
+   <g id="text_24">
+    <g id="patch_18">
+     <path d="M 339.516815 403.216603 
+L 403.84694 403.216603 
+L 403.84694 387.456607 
+L 339.516815 387.456607 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #cc79a7; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(365.732807 392.252898)">(ES):</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(340.791815 397.163042)">Essentialist Beliefs about</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(347.876432 401.563984)">Human Kinds Scale</text>
+   </g>
+   <g id="text_25">
+    <g id="patch_19">
+     <path d="M 184.001846 358.987252 
+L 239.824533 358.987252 
+L 239.824533 343.227256 
+L 184.001846 343.227256 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #cc79a7; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(194.06558 348.023547)">(IPTheory - M):</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(185.276846 352.395801)">Implicit person theory</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(189.238111 356.799133)">measure - morality</text>
+   </g>
+   <g id="text_26">
+    <g id="patch_20">
+     <path d="M 362.75781 237.519031 
+L 428.508764 237.519031 
+L 428.508764 221.759035 
+L 362.75781 221.759035 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #cc79a7; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(382.175662 226.555326)">(IPTheory):</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(368.996943 230.92758)">Implicit person theory</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(364.03281 235.330912)">measure - domain general</text>
+   </g>
+   <g id="text_27">
+    <g id="patch_21">
+     <path d="M 266.245028 353.748389 
+L 326.3302 353.748389 
+L 326.3302 337.988392 
+L 266.245028 337.988392 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #cc79a7; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(288.496966 342.784683)">(SEB):</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(267.520028 347.692437)">Self-Essentialist Beliefs</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(289.624146 352.095769)">Scale</text>
+   </g>
+   <g id="text_28">
+    <g id="patch_22">
+     <path d="M 448.355903 368.451737 
+L 507.881669 368.451737 
+L 507.881669 357.095073 
+L 448.355903 357.095073 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #cc79a7; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(470.468786 361.891364)">(SES):</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(449.630903 366.799118)">Self-Essentialism Scale</text>
+   </g>
+   <g id="text_29">
+    <g id="patch_23">
+     <path d="M 238.129453 413.495457 
+L 305.025516 413.495457 
+L 305.025516 402.138793 
+L 238.129453 402.138793 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #cc79a7; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(263.930273 406.935084)">(BTS):</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(239.404453 411.842838)">Belief in True Selves Scale</text>
+   </g>
+   <g id="text_30">
+    <g id="patch_24">
+     <path d="M 396.235109 140.555593 
+L 452.057796 140.555593 
+L 452.057796 124.795597 
+L 396.235109 124.795597 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #cc79a7; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(406.721984 129.591888)">(IPTheory - P):</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(397.510109 133.964142)">Implicit person theory</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(397.78782 138.367474)">measure - personality</text>
+   </g>
+   <g id="text_31">
+    <g id="patch_25">
+     <path d="M 91.912375 521.13455 
+L 156.2425 521.13455 
+L 156.2425 505.374554 
+L 91.912375 505.374554 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #cc79a7; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(113.594946 510.170845)">(ES-SG):</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(93.187375 515.08099)">Essentialist Beliefs about</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(99.702227 519.010978)">Social Groups scale</text>
+   </g>
+   <g id="text_32">
+    <g id="patch_26">
+     <path d="M 484.323188 281.045136 
+L 550.061391 281.045136 
+Q 551.999391 281.045136 551.999391 279.107136 
+L 551.999391 265.89714 
+Q 551.999391 263.95914 550.061391 263.95914 
+L 484.323188 263.95914 
+Q 482.385188 263.95914 482.385188 265.89714 
+L 482.385188 279.107136 
+Q 482.385188 281.045136 484.323188 281.045136 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #cc79a7; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(507.562852 269.418431)">(NFCC):</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(484.323188 273.821763)">Need for Cognitive Closure</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(510.528821 278.729517)">Scale</text>
+   </g>
+   <g id="text_33">
+    <g id="patch_27">
+     <path d="M 592.909836 263.885441 
+L 656.391289 263.885441 
+Q 658.329289 263.885441 658.329289 261.947441 
+L 658.329289 248.737445 
+Q 658.329289 246.799445 656.391289 246.799445 
+L 592.909836 246.799445 
+Q 590.971836 246.799445 590.971836 248.737445 
+L 590.971836 261.947441 
+Q 590.971836 263.885441 592.909836 263.885441 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #cc79a7; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(618.136507 252.258736)">(PFI):</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(592.909836 256.662068)">Personal Fear of Invalidity</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(617.987093 261.569822)">Scale</text>
+   </g>
+   <g id="text_34">
+    <g id="patch_28">
+     <path d="M 173.830337 448.823921 
+L 235.905306 448.823921 
+Q 237.843306 448.823921 237.843306 446.885921 
+L 237.843306 438.079257 
+Q 237.843306 436.141257 235.905306 436.141257 
+L 173.830337 436.141257 
+Q 171.892337 436.141257 171.892337 438.079257 
+L 171.892337 446.885921 
+Q 171.892337 448.823921 173.830337 448.823921 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #cc79a7; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(198.069681 441.600548)">(IHS):</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(173.830337 446.508302)">Inherence Heuristic Scale</text>
+   </g>
+   <g id="text_35">
+    <g id="patch_29">
+     <path d="M 337.794978 141.376909 
+L 393.910915 141.376909 
+L 393.910915 125.616913 
+L 337.794978 125.616913 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #cc79a7; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(349.420986 130.413204)">(IPTheory - I):</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(339.216603 134.785458)">Implicit person theory</text>
+    <text style="font-weight: 700; font-size: 5.1px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(339.069978 139.18879)">measure - intelligence</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa0023879d2">
+   <rect x="7.2" y="22.480273" width="734.328" height="600.9696"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -70,6 +70,31 @@ Running the notebook writes:
 
 The combined figure shows the self-concept cluster, the essentialism cluster, and isolated nodes. The two cluster-specific figure files are generated in addition to the combined network figure.
 
+
+## Tier 1+2 Network
+
+The notebook also builds an expanded Tier 1+2 network from:
+
+```text
+data/database_validity_extraction.xlsx
+```
+
+This workbook must include the same validity extraction columns plus `Tier`. The Tier 1+2 workflow includes focal questionnaires from tiers 1 and 2 that have at least one non-discriminant/non-divergent relationship row, plus the explicitly listed related-only questionnaires in the notebook. Duplicate questionnaire-pair edges are collapsed to one edge by keeping the largest absolute correlation value.
+
+Tier 1+2 clustering uses weighted Louvain community detection with absolute correlation size as the edge weight. Isolated nodes are saved in tables and omitted from Tier 1+2 figures for readability.
+
+Additional Tier 1+2 outputs include:
+
+- `outputs/figures/tier_1_2_questionnaires_mapping_network.png` / `.pdf` / `.svg`
+- `outputs/figures/tier_1_2_cluster_XX_<slug>.png` / `.pdf` / `.svg` for each connected Louvain cluster
+- `outputs/tables/tier_1_2_cleaned_network_edges.csv`
+- `outputs/tables/tier_1_2_duplicate_pair_edges_QA.csv`
+- `outputs/tables/tier_1_2_network_nodes.csv`
+- `outputs/tables/tier_1_2_cluster_membership.csv`
+- `outputs/tables/tier_1_2_isolated_nodes.csv`
+- `outputs/tables/tier_1_2_excluded_rows_QA.csv`
+- `outputs/tables/tier_1_2_excluded_non_network_questionnaires.csv`
+
 ## How To Run
 
 From the project root:

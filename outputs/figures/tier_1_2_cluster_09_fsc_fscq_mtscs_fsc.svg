@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="505.44pt" height="423.906833pt" viewBox="0 0 505.44 423.906833" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-06-30T14:15:34.770962</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 423.906833 
+L 505.44 423.906833 
+L 505.44 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="LineCollection_1">
+    <path d="M 235.242878 333.648273 
+L 223.879202 209.530233 
+" clip-path="url(#p1ed6f65092)" style="fill: none; stroke-dasharray: 11.8474,5.1232; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 3.202"/>
+    <path d="M 235.242878 333.648273 
+L 388.607254 284.829248 
+" clip-path="url(#p1ed6f65092)" style="fill: none; stroke-dasharray: 11.2702,4.8736; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 3.046"/>
+    <path d="M 223.879202 209.530233 
+L 388.607254 284.829248 
+" clip-path="url(#p1ed6f65092)" style="fill: none; stroke-dasharray: 8.5766,3.7088; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 2.318"/>
+    <path d="M 223.879202 209.530233 
+L 116.832746 88.304273 
+" clip-path="url(#p1ed6f65092)" style="fill: none; stroke-dasharray: 5.4982,2.3776; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 1.486"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="7.2" y="14.480273" transform="rotate(-0 7.2 14.480273)">Cluster 09: FSC, FSCQ, MTSCS-FSC, MTSCS-PSC</text>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_1">
+     <path d="M 59.839375 409.983552 
+L 66.839375 409.983552 
+L 73.839375 409.983552 
+" style="fill: none; stroke: #d55e00; stroke-width: 2.4; stroke-linecap: square"/>
+    </g>
+    <g id="text_2">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="79.439375" y="412.433552" transform="rotate(-0 79.439375 412.433552)">Positive relation</text>
+    </g>
+    <g id="line2d_2">
+     <path d="M 142.850625 409.983552 
+L 149.850625 409.983552 
+L 156.850625 409.983552 
+" style="fill: none; stroke: #0072b2; stroke-width: 2.4; stroke-linecap: square"/>
+    </g>
+    <g id="text_3">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="162.450625" y="412.433552" transform="rotate(-0 162.450625 412.433552)">Negative relation</text>
+    </g>
+    <g id="line2d_3">
+     <path d="M 228.977969 409.983552 
+L 235.977969 409.983552 
+L 242.977969 409.983552 
+" style="fill: none"/>
+     <defs>
+      <path id="m1792721482" d="M -4 4 
+L 4 4 
+L 4 -4 
+L -4 -4 
+z
+" style="stroke: #333333; stroke-linejoin: miter"/>
+     </defs>
+     <g>
+      <use xlink:href="#m1792721482" x="235.977969" y="409.983552" style="fill: #f8f8f8; stroke: #333333; stroke-linejoin: miter"/>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="248.577969" y="412.433552" transform="rotate(-0 248.577969 412.433552)">Tier 1 node</text>
+    </g>
+    <g id="line2d_4">
+     <path d="M 297.725625 409.983552 
+L 304.725625 409.983552 
+L 311.725625 409.983552 
+" style="fill: none"/>
+     <defs>
+      <path id="m39be2f50de" d="M 0 4 
+C 1.060812 4 2.078319 3.578535 2.828427 2.828427 
+C 3.578535 2.078319 4 1.060812 4 0 
+C 4 -1.060812 3.578535 -2.078319 2.828427 -2.828427 
+C 2.078319 -3.578535 1.060812 -4 0 -4 
+C -1.060812 -4 -2.078319 -3.578535 -2.828427 -2.828427 
+C -3.578535 -2.078319 -4 -1.060812 -4 0 
+C -4 1.060812 -3.578535 2.078319 -2.828427 2.828427 
+C -2.078319 3.578535 -1.060812 4 0 4 
+z
+" style="stroke: #333333"/>
+     </defs>
+     <g>
+      <use xlink:href="#m39be2f50de" x="304.725625" y="409.983552" style="fill: #f8f8f8; stroke: #333333"/>
+     </g>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="317.325625" y="412.433552" transform="rotate(-0 317.325625 412.433552)">Tier 2 node</text>
+    </g>
+    <g id="line2d_5">
+     <path d="M 366.473281 409.983552 
+L 373.473281 409.983552 
+L 380.473281 409.983552 
+" style="fill: none; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #555555; stroke-width: 2"/>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="386.073281" y="412.433552" transform="rotate(-0 386.073281 412.433552)">Convergent validity</text>
+    </g>
+   </g>
+   <g id="text_7">
+    <g id="patch_2">
+     <path d="M 217.82497 274.680862 
+L 230.350361 274.680862 
+Q 230.774361 274.680862 230.774361 274.256862 
+L 230.774361 269.282936 
+Q 230.774361 268.858936 230.350361 268.858936 
+L 217.82497 268.858936 
+Q 217.40097 268.858936 217.40097 269.282936 
+L 217.40097 274.256862 
+Q 217.40097 274.680862 217.82497 274.680862 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="224.087666" y="273.141481" transform="rotate(-0 224.087666 273.141481)">r=.51</text>
+   </g>
+   <g id="text_8">
+    <g id="patch_3">
+     <path d="M 308.230054 315.057526 
+L 320.755445 315.057526 
+Q 321.179445 315.057526 321.179445 314.633526 
+L 321.179445 309.6596 
+Q 321.179445 309.2356 320.755445 309.2356 
+L 308.230054 309.2356 
+Q 307.806054 309.2356 307.806054 309.6596 
+L 307.806054 314.633526 
+Q 307.806054 315.057526 308.230054 315.057526 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="314.49275" y="313.518145" transform="rotate(-0 314.49275 313.518145)">r=.48</text>
+   </g>
+   <g id="text_9">
+    <g id="patch_4">
+     <path d="M 303.301078 247.472064 
+L 315.826469 247.472064 
+Q 316.250469 247.472064 316.250469 247.048064 
+L 316.250469 242.074138 
+Q 316.250469 241.650138 315.826469 241.650138 
+L 303.301078 241.650138 
+Q 302.877078 241.650138 302.877078 242.074138 
+L 302.877078 247.048064 
+Q 302.877078 247.472064 303.301078 247.472064 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="309.563774" y="245.932683" transform="rotate(-0 309.563774 245.932683)">r=.34</text>
+   </g>
+   <g id="text_10">
+    <g id="patch_5">
+     <path d="M 159.250207 153.369865 
+L 171.775597 153.369865 
+Q 172.199597 153.369865 172.199597 152.945865 
+L 172.199597 147.97194 
+Q 172.199597 147.54794 171.775597 147.54794 
+L 159.250207 147.54794 
+Q 158.826207 147.54794 158.826207 147.97194 
+L 158.826207 152.945865 
+Q 158.826207 153.369865 159.250207 153.369865 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="165.512902" y="151.830485" transform="rotate(-0 165.512902 151.830485)">r=.18</text>
+   </g>
+   <g id="text_11">
+    <g id="patch_6">
+     <path d="M 203.347862 342.60984 
+L 267.137893 342.60984 
+L 267.137893 324.686707 
+L 203.347862 324.686707 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #9467bd; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(224.290393 330.141312)">(FSCQ):</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(204.797862 335.149023)">Future Self-Continuity</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(215.745815 340.559109)">Questionnaire</text>
+   </g>
+   <g id="text_12">
+    <g id="patch_7">
+     <path d="M 191.984186 218.4918 
+L 255.774217 218.4918 
+L 255.774217 200.568667 
+L 191.984186 200.568667 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #9467bd; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(215.182373 206.023273)">(FSC):</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(193.434186 211.030983)">Future Self-Continuity</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(216.622858 216.579726)">scale</text>
+   </g>
+   <g id="text_13">
+    <g id="patch_8">
+     <path d="M 78.05748 99.769695 
+L 155.608012 99.769695 
+L 155.608012 76.838852 
+L 78.05748 76.838852 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #9467bd; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(96.857184 82.293457)">(MTSCS-PSC):</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(79.50748 87.303887)">Multidimensional Temporal</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(86.059215 92.308879)">Self-Continuity Scale -</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(89.283199 97.31659)">Past Self-Continuity</text>
+   </g>
+   <g id="text_14">
+    <g id="patch_9">
+     <path d="M 349.831988 296.29467 
+L 427.38252 296.29467 
+L 427.38252 273.363826 
+L 349.831988 273.363826 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #9467bd; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(368.794816 278.818431)">(MTSCS-FSC):</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(351.281988 283.828861)">Multidimensional Temporal</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(357.833723 288.833853)">Self-Continuity Scale -</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(358.162238 293.841564)">Future Self-Continuity</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1ed6f65092">
+   <rect x="7.2" y="22.480273" width="491.04" height="376.992"/>
+  </clipPath>
+ </defs>
+</svg>

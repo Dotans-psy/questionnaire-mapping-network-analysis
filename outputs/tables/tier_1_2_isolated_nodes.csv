@@ -1,0 +1,90 @@
+node_key,questionnaire,tier,node_origin,short_label,plot_label,degree,cluster_id,cluster_name,is_connected
+(csws - ac): contingencies of self-worth scale - academic competence subscale,(CSWS - AC): Contingencies of Self-Worth Scale - Academic Competence subscale,2,focal_questionnaire,CSWS-AC,"(CSWS - AC):
+Contingencies of Self-Worth
+Scale - Academic Competence
+subscale",0,,Isolated node,False
+(csws - ap): contingencies of self-worth scale - appearance subscale,(CSWS - AP): Contingencies of Self-Worth Scale - Appearance subscale,2,focal_questionnaire,CSWS-AP,"(CSWS - AP):
+Contingencies of Self-Worth
+Scale - Appearance subscale",0,,Isolated node,False
+(csws - co): contingencies of self-worth scale - competition subscale,(CSWS - CO): Contingencies of Self-Worth Scale - Competition subscale,2,focal_questionnaire,CSWS-CO,"(CSWS - CO):
+Contingencies of Self-Worth
+Scale - Competition subscale",0,,Isolated node,False
+(csws - fs): contingencies of self-worth scale - family support subscale,(CSWS - FS): Contingencies of Self-Worth Scale - Family Support subscale,2,focal_questionnaire,CSWS-FS,"(CSWS - FS):
+Contingencies of Self-Worth
+Scale - Family Support
+subscale",0,,Isolated node,False
+(csws - gl): contingencies of self-worth scale - god's love subscale,(CSWS - GL): Contingencies of Self-Worth Scale - God's Love subscale,2,focal_questionnaire,CSWS-GL,"(CSWS - GL):
+Contingencies of Self-Worth
+Scale - God's Love subscale",0,,Isolated node,False
+(csws - oa): contingencies of self-worth scale - others’ approval subscale,(CSWS - OA): Contingencies of Self-Worth Scale - Others’ Approval subscale,2,focal_questionnaire,CSWS-OA,"(CSWS - OA):
+Contingencies of Self-Worth
+Scale - Others’ Approval
+subscale",0,,Isolated node,False
+(csws - v): contingencies of self-worth scale - virtue subscale,(CSWS - V): Contingencies of Self-Worth Scale - Virtue subscale,2,focal_questionnaire,CSWS-V,"(CSWS - V):
+Contingencies of Self-Worth
+Scale - Virtue subscale",0,,Isolated node,False
+(ds): dogmatism scale (updated),(DS): Dogmatism Scale (updated),2,focal_questionnaire,DS,"(DS):
+Dogmatism Scale (updated)",0,,Isolated node,False
+(eq - r): experiences questionnaire - rumination subscale,(EQ - R): Experiences Questionnaire - Rumination subscale,2,manual_related_inclusion,EQ-R,"(EQ - R):
+Experiences Questionnaire -
+Rumination subscale",0,,Isolated node,False
+(hvic - hc): horizontal and vertical individualism-collectivism scale - horizontal collectivism subscale,(HVIC - HC): Horizontal and Vertical Individualism-Collectivism Scale - Horizontal Collectivism subscale,2,focal_questionnaire,HVIC-HC,"(HVIC - HC):
+Horizontal and Vertical
+Individualism-Collectivism
+Scale - Horizontal
+Collectivism subscale",0,,Isolated node,False
+(hvic - hi): horizontal and vertical individualism-collectivism scale - horizontal individualism subscale,(HVIC - HI): Horizontal and Vertical Individualism-Collectivism Scale - Horizontal Individualism subscale,2,focal_questionnaire,HVIC-HI,"(HVIC - HI):
+Horizontal and Vertical
+Individualism-Collectivism
+Scale - Horizontal
+Individualism subscale",0,,Isolated node,False
+(hvic - vc): horizontal and vertical individualism-collectivism scale - vertical collectivism subscale,(HVIC - VC): Horizontal and Vertical Individualism-Collectivism Scale - Vertical Collectivism subscale,2,focal_questionnaire,HVIC-VC,"(HVIC - VC):
+Horizontal and Vertical
+Individualism-Collectivism
+Scale - Vertical
+Collectivism subscale",0,,Isolated node,False
+(ies-g - ac): identity and experiences scale-general - identity accommodation,(IES-G - AC): Identity and Experiences Scale-General - identity accommodation,2,focal_questionnaire,IES-G-AC,"(IES-G - AC):
+Identity and Experiences
+Scale-General - identity
+accommodation",0,,Isolated node,False
+(ies-g - as): identity and experiences scale-general - identity assimilation,(IES-G - AS): Identity and Experiences Scale-General - identity assimilation,2,focal_questionnaire,IES-G-AS,"(IES-G - AS):
+Identity and Experiences
+Scale-General - identity
+assimilation",0,,Isolated node,False
+(ies-g - b): identity and experiences scale-general - identity balance,(IES-G - B): Identity and Experiences Scale-General - identity balance,2,focal_questionnaire,IES-G-B,"(IES-G - B):
+Identity and Experiences
+Scale-General - identity
+balance",0,,Isolated node,False
+(indcol - i): individualism-collectivism scale - general collectivism index,(INDCOL - I): Individualism-Collectivism Scale - General Collectivism Index,2,focal_questionnaire,INDCOL-I,"(INDCOL - I):
+Individualism-Collectivism
+Scale - General Collectivism
+Index",0,,Isolated node,False
+(ius): intolerance of uncertainty scale (buhr & dugas),(IUS): Intolerance of Uncertainty Scale (Buhr & Dugas),2,focal_questionnaire,IUS,"(IUS):
+Intolerance of Uncertainty
+Scale (Buhr & Dugas)",0,,Isolated node,False
+(sise): single-item self-esteem scale,(SISE): Single-Item Self-Esteem Scale,2,focal_questionnaire,SISE,"(SISE):
+Single-Item Self-Esteem
+Scale",0,,Isolated node,False
+(sscs - hc): sixfold self-construal scale - horizontal-collective self-construal subscale,(SSCS - HC): Sixfold Self-Construal Scale - Horizontal-Collective self-construal subscale,2,focal_questionnaire,SSCS-HC,"(SSCS - HC):
+Sixfold Self-Construal Scale
+- Horizontal-Collective
+self-construal subscale",0,,Isolated node,False
+(sscs - hr): sixfold self-construal scale - horizontal-relational self-construal subscale,(SSCS - HR): Sixfold Self-Construal Scale - Horizontal-Relational self-construal subscale,2,focal_questionnaire,SSCS-HR,"(SSCS - HR):
+Sixfold Self-Construal Scale
+- Horizontal-Relational
+self-construal subscale",0,,Isolated node,False
+(sscs - hum): sixfold self-construal scale - humanity-bound self-construal subscale,(SSCS - HUM): Sixfold Self-Construal Scale - Humanity-bound self-construal subscale,2,focal_questionnaire,SSCS-HUM,"(SSCS - HUM):
+Sixfold Self-Construal Scale
+- Humanity-bound self-
+construal subscale",0,,Isolated node,False
+(sscs - p): sixfold self-construal scale - personal self subscale,(SSCS - P): Sixfold Self-Construal Scale - Personal self subscale,2,focal_questionnaire,SSCS-P,"(SSCS - P):
+Sixfold Self-Construal Scale
+- Personal self subscale",0,,Isolated node,False
+(sscs - vc): sixfold self-construal scale - vertical-collective self-construal subscale,(SSCS - VC): Sixfold Self-Construal Scale - Vertical-Collective self-construal subscale,2,focal_questionnaire,SSCS-VC,"(SSCS - VC):
+Sixfold Self-Construal Scale
+- Vertical-Collective self-
+construal subscale",0,,Isolated node,False
+(sscs - vr): sixfold self-construal scale - vertical-relational self-construal subscale,(SSCS - VR): Sixfold Self-Construal Scale - Vertical-Relational self-construal subscale,2,focal_questionnaire,SSCS-VR,"(SSCS - VR):
+Sixfold Self-Construal Scale
+- Vertical-Relational self-
+construal subscale",0,,Isolated node,False
