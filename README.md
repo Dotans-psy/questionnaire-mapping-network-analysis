@@ -83,6 +83,8 @@ This workbook must include the same validity extraction columns plus `Tier`. The
 
 Tier 1+2 clustering uses weighted Louvain community detection with absolute correlation size as the edge weight. Isolated nodes are saved in tables and omitted from Tier 1+2 figures for readability. Cluster-specific figures are generated only for Louvain clusters with at least four connected nodes, and each cluster figure is stored in its own folder under `outputs/figures/`.
 
+The Tier 1+2 workflow also calculates node centrality metrics. The primary index is absolute weighted node strength, defined as the sum of absolute correlation values across all edges attached to a questionnaire. The notebook also exports signed expected influence, bridge strength across Louvain clusters, and within-cluster strength.
+
 Additional Tier 1+2 outputs include:
 
 - `outputs/figures/tier_1_2_questionnaires_mapping_network.png` / `.pdf` / `.svg`
@@ -95,6 +97,10 @@ Additional Tier 1+2 outputs include:
 - `outputs/tables/tier_1_2_isolated_nodes.csv`
 - `outputs/tables/tier_1_2_excluded_rows_QA.csv`
 - `outputs/tables/tier_1_2_excluded_non_network_questionnaires.csv`
+- `outputs/tables/tier_1_2_node_centrality.xlsx`
+- `outputs/tables/tier_1_2_top25_absolute_weighted_node_strength_by_cluster.xlsx`
+- `outputs/tables/tier_1_2_top25_bridge_strength_by_cluster.xlsx`
+- `outputs/tables/tier_1_2_top25_within_cluster_strength_by_cluster.xlsx`
 
 ## How To Run
 
