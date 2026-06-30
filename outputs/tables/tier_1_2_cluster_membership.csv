@@ -1,59 +1,65 @@
 node_key,questionnaire,tier,node_origin,short_label,plot_label,degree,cluster_id,cluster_name,is_connected
 (bts): belief in true selves scale,(BTS): Belief in True Selves Scale,1,focal_questionnaire,BTS,"(BTS):
 Belief in True Selves Scale",4,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
-(es): essentialist beliefs about human kinds scale,(ES): Essentialist Beliefs about Human Kinds Scale,1,focal_questionnaire,ES,"(ES):
+(es): essentialist beliefs about human kinds scale,(ES): Essentialist Beliefs about Human Kinds Scale,1,focal_questionnaire; manual_tier_override,ES,"(ES):
 Essentialist Beliefs about
 Human Kinds Scale",3,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
 (es-sg): essentialist beliefs about social groups scale,(ES-SG): Essentialist Beliefs about Social Groups scale,1,manual_related_inclusion,ES-SG,"(ES-SG):
 Essentialist Beliefs about
 Social Groups scale",1,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
 (fsc): future self-continuity scale,(FSC): Future Self-Continuity scale,1,focal_questionnaire,FSC,"(FSC):
-Future Self-Continuity scale",3,9.0,"Cluster 09: FSC, FSCQ, MTSCS-FSC, MTSCS-PSC",True
+Future Self-Continuity scale",4,6.0,"Cluster 06: FSC, PSCQ, PSC-N, PSC-S",True
 (fscq): future self-continuity questionnaire,(FSCQ): Future Self-Continuity Questionnaire,1,focal_questionnaire,FSCQ,"(FSCQ):
 Future Self-Continuity
-Questionnaire",2,9.0,"Cluster 09: FSC, FSCQ, MTSCS-FSC, MTSCS-PSC",True
+Questionnaire",2,6.0,"Cluster 06: FSC, PSCQ, PSC-N, PSC-S",True
 (iptheory - i): implicit person theory measure - intelligence,(IPTheory - I): Implicit person theory measure - intelligence,1,focal_questionnaire,IPT-I,"(IPTheory - I):
 Implicit person theory
-measure - intelligence",2,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
+measure - intelligence",3,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
 (iptheory - m): implicit person theory measure - morality,(IPTheory - M): Implicit person theory measure - morality,1,focal_questionnaire,IPT-M,"(IPTheory - M):
 Implicit person theory
 measure - morality",2,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
 (iptheory - p): implicit person theory measure - personality,(IPTheory - P): Implicit person theory measure - personality,1,focal_questionnaire,IPT-P,"(IPTheory - P):
 Implicit person theory
-measure - personality",2,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
+measure - personality",3,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
+(iptheory - s): implicit person theory measure - specific abilities,(IPTheory - S): Implicit person theory measure - specific abilities,1,manual_related_inclusion,IPT-S,"(IPTheory - S):
+Implicit person theory
+measure - specific abilities",3,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
 (iptheory): implicit person theory measure - domain general,(IPTheory): Implicit person theory measure - domain general,1,focal_questionnaire,IPT,"(IPTheory):
 Implicit person theory
-measure - domain general",5,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
+measure - domain general",6,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
 (isk):integrative self-knowledge scale,(ISK):Integrative Self-Knowledge Scale,1,focal_questionnaire,ISK,"(ISK):
 Integrative Self-Knowledge
-Scale",5,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Scale",5,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (mtscs-fsc): multidimensional temporal self-continuity scale - future self-continuity,(MTSCS-FSC): Multidimensional Temporal Self-Continuity Scale - Future Self-Continuity,1,focal_questionnaire,MTSCS-FSC,"(MTSCS-FSC):
 Multidimensional Temporal
 Self-Continuity Scale -
-Future Self-Continuity",2,9.0,"Cluster 09: FSC, FSCQ, MTSCS-FSC, MTSCS-PSC",True
+Future Self-Continuity",2,6.0,"Cluster 06: FSC, PSCQ, PSC-N, PSC-S",True
 (mtscs-psc): multidimensional temporal self-continuity scale - past self-continuity,(MTSCS-PSC): Multidimensional Temporal Self-Continuity Scale - Past Self-Continuity,1,focal_questionnaire,MTSCS-PSC,"(MTSCS-PSC):
 Multidimensional Temporal
 Self-Continuity Scale - Past
-Self-Continuity",1,9.0,"Cluster 09: FSC, FSCQ, MTSCS-FSC, MTSCS-PSC",True
+Self-Continuity",2,6.0,"Cluster 06: FSC, PSCQ, PSC-N, PSC-S",True
 (psc-n): past self-continuity scale - narrativity,(PSC-N): Past Self-Continuity Scale - Narrativity,1,focal_questionnaire,PSC-N,"(PSC-N):
 Past Self-Continuity Scale -
-Narrativity",2,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Narrativity",3,6.0,"Cluster 06: FSC, PSCQ, PSC-N, PSC-S",True
 (psc-s): past self-continuity scale - stability,(PSC-S): Past Self-Continuity Scale - Stability,1,focal_questionnaire,PSC-S,"(PSC-S):
 Past Self-Continuity Scale -
-Stability",2,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Stability",3,6.0,"Cluster 06: FSC, PSCQ, PSC-N, PSC-S",True
+(pscq): past self-continuity questionnaire,(PSCQ): Past Self-Continuity Questionnaire,1,manual_related_inclusion,PSCQ,"(PSCQ):
+Past Self-Continuity
+Questionnaire",4,6.0,"Cluster 06: FSC, PSCQ, PSC-N, PSC-S",True
 (phi): self-concept sorting task adapted for self concept compartmentalization,(Phi): Self-Concept sorting task adapted for self concept Compartmentalization,1,focal_questionnaire,Phi,"(Phi):
 Self-Concept sorting task
 adapted for self concept
-Compartmentalization",1,8.0,"Cluster 08: SCD-SD, SCD-VAR, SCD-R, SCD-CSD",True
+Compartmentalization",1,9.0,"Cluster 09: SCD-SD, SCD-VAR, SCD-R, SCD-CSD",True
 (scc): self-concept clarity scale,(SCC): Self-Concept Clarity Scale,1,focal_questionnaire,SCC,"(SCC):
-Self-Concept Clarity Scale",13,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Self-Concept Clarity Scale",13,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (scd - csd): self-concept differentiation index - corrected cross-role standard deviation,(SCD - CSD): Self-Concept Differentiation index - corrected cross-role standard deviation,1,focal_questionnaire; manual_tier_override,SCD-CSD,"(SCD - CSD):
 Self-Concept Differentiation
 index - corrected cross-role
-standard deviation",2,8.0,"Cluster 08: SCD-SD, SCD-VAR, SCD-R, SCD-CSD",True
+standard deviation",2,9.0,"Cluster 09: SCD-SD, SCD-VAR, SCD-R, SCD-CSD",True
 (scs): self-concept consistency scale,(SCS): Self-Concept Consistency scale,1,focal_questionnaire,SCS,"(SCS):
 Self-Concept Consistency
-scale",2,6.0,"Cluster 06: NADA-T, MPS, SFoRC, IOS",True
+scale",2,7.0,"Cluster 07: NADA-T, MPS, SFoRC, IOS",True
 (seb): self-essentialist beliefs scale,(SEB): Self-Essentialist Beliefs Scale,1,focal_questionnaire,SEB,"(SEB):
 Self-Essentialist Beliefs
 Scale",5,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
@@ -61,13 +67,13 @@ Scale",5,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
 Self-Essentialism Scale",3,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
 scd (r): self-concept differentiation index campbell,SCD (R): self-concept differentiation index campbell,1,focal_questionnaire,SCD-R,"SCD (R):
 self-concept differentiation
-index campbell",5,8.0,"Cluster 08: SCD-SD, SCD-VAR, SCD-R, SCD-CSD",True
+index campbell",5,9.0,"Cluster 09: SCD-SD, SCD-VAR, SCD-R, SCD-CSD",True
 scd (sd): self-concept differentiation index by styła,SCD (SD): Self-Concept Differentiation index by Styła,1,focal_questionnaire,SCD-SD,"SCD (SD):
 Self-Concept Differentiation
-index by Styła",6,8.0,"Cluster 08: SCD-SD, SCD-VAR, SCD-R, SCD-CSD",True
+index by Styła",6,9.0,"Cluster 09: SCD-SD, SCD-VAR, SCD-R, SCD-CSD",True
 scd (var): self-concept differentiation index by donahue,SCD (VAR): Self-Concept Differentiation index by donahue,1,focal_questionnaire,SCD-VAR,"SCD (VAR):
 Self-Concept Differentiation
-index by donahue",6,8.0,"Cluster 08: SCD-SD, SCD-VAR, SCD-R, SCD-CSD",True
+index by donahue",6,9.0,"Cluster 09: SCD-SD, SCD-VAR, SCD-R, SCD-CSD",True
 (aaq-i): acceptance and action questionnaire-i,(AAQ-I): Acceptance and Action Questionnaire-I,2,focal_questionnaire,AAQ-I,"(AAQ-I):
 Acceptance and Action
 Questionnaire-I",6,3.0,"Cluster 03: AAQ-II, PHLMS-ACC, AAQ-I, TMS-D",True
@@ -77,19 +83,19 @@ Questionnaire-II",9,3.0,"Cluster 03: AAQ-II, PHLMS-ACC, AAQ-I, TMS-D",True
 (aat): attitudinal ambiguity tolerance scale (durrheim & foster),(AAT): Attitudinal Ambiguity Tolerance Scale (Durrheim & Foster),2,focal_questionnaire,AAT,"(AAT):
 Attitudinal Ambiguity
 Tolerance Scale (Durrheim &
-Foster)",1,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+Foster)",1,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (ai): authenticity inventory,(AI): Authenticity Inventory,2,focal_questionnaire,AI,"(AI):
 Authenticity Inventory",6,5.0,"Cluster 05: MAAS, CAMS-R, AI, FMI",True
 (as - aei): authenticity scale - accepting external influence subscale,(AS - AEI): Authenticity Scale - Accepting External Influence subscale,2,focal_questionnaire,AS-AEI,"(AS - AEI):
 Authenticity Scale -
 Accepting External Influence
-subscale",1,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+subscale",1,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (as - al): authenticity scale - authentic living subscale,(AS - AL): Authenticity Scale - Authentic Living subscale,2,focal_questionnaire,AS-AL,"(AS - AL):
 Authenticity Scale -
-Authentic Living subscale",4,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Authentic Living subscale",4,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (as - sa): authenticity scale - self-alienation subscale,(AS - SA): Authenticity Scale - Self-Alienation subscale,2,focal_questionnaire,AS-SA,"(AS - SA):
 Authenticity Scale - Self-
-Alienation subscale",3,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Alienation subscale",3,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (cams-r): cognitive and affective mindfulness scale-revised,(CAMS-R): Cognitive and Affective Mindfulness Scale-Revised,2,focal_questionnaire,CAMS-R,"(CAMS-R):
 Cognitive and Affective
 Mindfulness Scale-Revised",8,5.0,"Cluster 05: MAAS, CAMS-R, AI, FMI",True
@@ -102,7 +108,7 @@ Questionnaire",1,3.0,"Cluster 03: AAQ-II, PHLMS-ACC, AAQ-I, TMS-D",True
 (cfs): cognitive flexibility scale,(CFS): Cognitive Flexibility Scale,2,focal_questionnaire,CFS,"(CFS):
 Cognitive Flexibility Scale",2,5.0,"Cluster 05: MAAS, CAMS-R, AI, FMI",True
 (crt): cognitive reflection test,(CRT): Cognitive Reflection Test,2,focal_questionnaire,CRT,"(CRT):
-Cognitive Reflection Test",1,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Cognitive Reflection Test",1,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (cses): contingent self-esteem scale,(CSES): Contingent Self-Esteem Scale,2,manual_related_inclusion,CSES,"(CSES):
 Contingent Self-Esteem Scale",1,5.0,"Cluster 05: MAAS, CAMS-R, AI, FMI",True
 (cses): core self-evaluations scale,(CSES): Core Self-Evaluations Scale,2,focal_questionnaire,CSES,"(CSES):
@@ -110,26 +116,26 @@ Core Self-Evaluations Scale",1,11.0,"Cluster 11: SES-GSE, CSES, NGSE",True
 (dds): drexel defusion scale,(DDS): Drexel Defusion Scale,2,focal_questionnaire,DDS,"(DDS):
 Drexel Defusion Scale",3,3.0,"Cluster 03: AAQ-II, PHLMS-ACC, AAQ-I, TMS-D",True
 (ds): dogmatism scale,(DS): Dogmatism Scale,2,manual_related_inclusion,DS,"(DS):
-Dogmatism Scale",6,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+Dogmatism Scale",6,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (eq - d): experiences questionnaire - decentering subscale,(EQ - D): Experiences Questionnaire - Decentering subscale,2,focal_questionnaire,EQ-D,"(EQ - D):
 Experiences Questionnaire -
 Decentering subscale",3,3.0,"Cluster 03: AAQ-II, PHLMS-ACC, AAQ-I, TMS-D",True
 (es): egocentrism scale,(ES): Egocentrism Scale,2,focal_questionnaire,ES,"(ES):
-Egocentrism Scale",2,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Egocentrism Scale",2,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (esks): experiential self-knowledge scale,(ESKS): Experiential Self-Knowledge Scale,2,manual_related_inclusion,ESKS,"(ESKS):
 Experiential Self-Knowledge
-Scale",1,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Scale",1,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (fmi): freiburg mindfulness inventory,(FMI): Freiburg Mindfulness Inventory,2,focal_questionnaire,FMI,"(FMI):
 Freiburg Mindfulness
 Inventory",6,5.0,"Cluster 05: MAAS, CAMS-R, AI, FMI",True
 (fst - c): self thoughts questionnaire - clarity of future self subscale,(FST - C): Self Thoughts Questionnaire - Clarity of Future Self subscale,2,focal_questionnaire,FST-C,"(FST - C):
 Self Thoughts Questionnaire
 - Clarity of Future Self
-subscale",2,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+subscale",2,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (fst - f): self thoughts questionnaire - frequency of future self thought subscale,(FST - F): Self Thoughts Questionnaire - Frequency of Future Self Thought subscale,2,focal_questionnaire,FST-F,"(FST - F):
 Self Thoughts Questionnaire
 - Frequency of Future Self
-Thought subscale",5,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Thought subscale",5,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (h): linville self-complexity index,(H): Linville Self-Complexity Index,2,focal_questionnaire,H,"(H):
 Linville Self-Complexity
 Index",2,10.0,"Cluster 10: SCT-NASPECTS, H, SCT-OL",True
@@ -137,10 +143,10 @@ Index",2,10.0,"Cluster 10: SCT-NASPECTS, H, SCT-OL",True
 Inherence Heuristic Scale",4,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
 (incom): iowa-netherlands comparison orientation measure,(INCOM): Iowa-Netherlands Comparison Orientation Measure,2,focal_questionnaire,INCOM,"(INCOM):
 Iowa-Netherlands Comparison
-Orientation Measure",3,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Orientation Measure",3,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (ios):inclusion of other in the self scale,(IOS):Inclusion of Other in the Self Scale,2,focal_questionnaire,IOS,"(IOS):
 Inclusion of Other in the
-Self Scale",2,6.0,"Cluster 06: NADA-T, MPS, SFoRC, IOS",True
+Self Scale",2,7.0,"Cluster 07: NADA-T, MPS, SFoRC, IOS",True
 (is): interconnectedness scale,(IS): Interconnectedness Scale,2,focal_questionnaire,IS,"(IS):
 Interconnectedness Scale",1,3.0,"Cluster 03: AAQ-II, PHLMS-ACC, AAQ-I, TMS-D",True
 (kims): kentucky inventory of mindfulness skills,(KIMS): Kentucky Inventory of Mindfulness Skills,2,focal_questionnaire,KIMS,"(KIMS):
@@ -161,7 +167,7 @@ Inventory - Inflexibility
 composite",5,3.0,"Cluster 03: AAQ-II, PHLMS-ACC, AAQ-I, TMS-D",True
 (mps): metapersonal self-construal scale,(MPS): Metapersonal Self-Construal Scale,2,focal_questionnaire,MPS,"(MPS):
 Metapersonal Self-Construal
-Scale",3,6.0,"Cluster 06: NADA-T, MPS, SFoRC, IOS",True
+Scale",3,7.0,"Cluster 07: NADA-T, MPS, SFoRC, IOS",True
 (mpod-t): metacognitive processes of decentering scale-trait,(MPoD-t): Metacognitive Processes of Decentering Scale-Trait,2,focal_questionnaire,MPoD-t,"(MPoD-t):
 Metacognitive Processes of
 Decentering Scale-Trait",5,3.0,"Cluster 03: AAQ-II, PHLMS-ACC, AAQ-I, TMS-D",True
@@ -170,54 +176,54 @@ Mindfulness Questionnaire",4,5.0,"Cluster 05: MAAS, CAMS-R, AI, FMI",True
 (mqi - a): multidimensional questionnaire of identity - accessibility,(MQI - A): Multidimensional Questionnaire of Identity - accessibility,2,focal_questionnaire,MQI-A,"(MQI - A):
 Multidimensional
 Questionnaire of Identity -
-accessibility",1,7.0,"Cluster 07: S-SCS-INT, MQI-A, MQI-C, MQI-SE",True
+accessibility",1,8.0,"Cluster 08: S-SCS-INT, MQI-A, MQI-C, MQI-SE",True
 (mqi - c): multidimensional questionnaire of identity - coherence,(MQI - C): Multidimensional Questionnaire of Identity - coherence,2,focal_questionnaire,MQI-C,"(MQI - C):
 Multidimensional
 Questionnaire of Identity -
-coherence",1,7.0,"Cluster 07: S-SCS-INT, MQI-A, MQI-C, MQI-SE",True
+coherence",1,8.0,"Cluster 08: S-SCS-INT, MQI-A, MQI-C, MQI-SE",True
 (mqi - se): multidimensional questionnaire of identity - separateness,(MQI - SE): Multidimensional Questionnaire of Identity - separateness,2,focal_questionnaire,MQI-SE,"(MQI - SE):
 Multidimensional
 Questionnaire of Identity -
-separateness",1,7.0,"Cluster 07: S-SCS-INT, MQI-A, MQI-C, MQI-SE",True
+separateness",1,8.0,"Cluster 08: S-SCS-INT, MQI-A, MQI-C, MQI-SE",True
 (mqi - sp): multidimensional questionnaire of identity - specificity,(MQI - SP): Multidimensional Questionnaire of Identity - specificity,2,focal_questionnaire,MQI-SP,"(MQI - SP):
 Multidimensional
 Questionnaire of Identity -
-specificity",1,7.0,"Cluster 07: S-SCS-INT, MQI-A, MQI-C, MQI-SE",True
+specificity",1,8.0,"Cluster 08: S-SCS-INT, MQI-A, MQI-C, MQI-SE",True
 (mqi - st): multidimensional questionnaire of identity - stability,(MQI - ST): Multidimensional Questionnaire of Identity - stability,2,focal_questionnaire,MQI-ST,"(MQI - ST):
 Multidimensional
 Questionnaire of Identity -
-stability",1,7.0,"Cluster 07: S-SCS-INT, MQI-A, MQI-C, MQI-SE",True
+stability",1,8.0,"Cluster 08: S-SCS-INT, MQI-A, MQI-C, MQI-SE",True
 (mqi - v): multidimensional questionnaire of identity - valuation,(MQI - V): Multidimensional Questionnaire of Identity - valuation,2,focal_questionnaire,MQI-V,"(MQI - V):
 Multidimensional
 Questionnaire of Identity -
-valuation",1,7.0,"Cluster 07: S-SCS-INT, MQI-A, MQI-C, MQI-SE",True
+valuation",1,8.0,"Cluster 08: S-SCS-INT, MQI-A, MQI-C, MQI-SE",True
 (mstat-i): multiple stimulus types ambiguity tolerance scale-i (mclain),(MSTAT-I): Multiple Stimulus Types Ambiguity Tolerance Scale-I (McLain),2,focal_questionnaire,MSTAT-I,"(MSTAT-I):
 Multiple Stimulus Types
 Ambiguity Tolerance Scale-I
-(McLain)",3,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+(McLain)",3,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (mstat-ii): multiple stimulus types ambiguity tolerance scale-ii (mclain),(MSTAT-II): Multiple Stimulus Types Ambiguity Tolerance Scale-II (McLain),2,focal_questionnaire,MSTAT-II,"(MSTAT-II):
 Multiple Stimulus Types
 Ambiguity Tolerance Scale-II
-(McLain)",1,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+(McLain)",1,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (nada-t): nondual awareness dimensional assessment-trait,(NADA-T): Nondual Awareness Dimensional Assessment-Trait,2,focal_questionnaire,NADA-T,"(NADA-T):
 Nondual Awareness
-Dimensional Assessment-Trait",5,6.0,"Cluster 06: NADA-T, MPS, SFoRC, IOS",True
+Dimensional Assessment-Trait",5,7.0,"Cluster 07: NADA-T, MPS, SFoRC, IOS",True
 (nas): nonattachment scale,(NAS): Nonattachment Scale,2,focal_questionnaire,NAS,"(NAS):
 Nonattachment Scale",3,3.0,"Cluster 03: AAQ-II, PHLMS-ACC, AAQ-I, TMS-D",True
 (ncs): need for cognition scale,(NCS): Need for Cognition Scale,2,focal_questionnaire,NCS,"(NCS):
-Need for Cognition Scale",11,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Need for Cognition Scale",11,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (nfcc): need for cognitive closure scale,(NFCC): Need for Cognitive Closure Scale,2,focal_questionnaire,NFCC,"(NFCC):
 Need for Cognitive Closure
 Scale",7,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
 (nfsk): need for self-knowledge scale,(NFSK): Need for Self-Knowledge Scale,2,focal_questionnaire,NFSK,"(NFSK):
 Need for Self-Knowledge
-Scale",3,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Scale",3,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (ngse): new general self-efficacy scale,(NGSE): New General Self-Efficacy Scale,2,focal_questionnaire,NGSE,"(NGSE):
 New General Self-Efficacy
 Scale",1,11.0,"Cluster 11: SES-GSE, CSES, NGSE",True
 (pfc): preference for consistency scale,(PFC): Preference for Consistency Scale,2,focal_questionnaire,PFC,"(PFC):
 Preference for Consistency
-Scale",7,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+Scale",7,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (pfi): personal fear of invalidity scale,(PFI): Personal Fear of Invalidity Scale,2,manual_related_inclusion,PFI,"(PFI):
 Personal Fear of Invalidity
 Scale",1,4.0,"Cluster 04: NFCC, IPT, SEB, BTS",True
@@ -226,36 +232,36 @@ Philadelphia Mindfulness
 Scale - Acceptance subscale",7,3.0,"Cluster 03: AAQ-II, PHLMS-ACC, AAQ-I, TMS-D",True
 (phlms - awa): philadelphia mindfulness scale - awareness subscale,(PHLMS - AWA): Philadelphia Mindfulness Scale - Awareness subscale,2,focal_questionnaire,PHLMS-AWA,"(PHLMS - AWA):
 Philadelphia Mindfulness
-Scale - Awareness subscale",3,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Scale - Awareness subscale",3,3.0,"Cluster 03: AAQ-II, PHLMS-ACC, AAQ-I, TMS-D",True
 (pns): personal need for structure scale,(PNS): Personal Need for Structure Scale,2,focal_questionnaire,PNS,"(PNS):
 Personal Need for Structure
-Scale",7,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+Scale",7,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (risc): relational-interdependent self-construal scale,(RISC): Relational-Interdependent Self-Construal Scale,2,focal_questionnaire,RISC,"(RISC):
 Relational-Interdependent
-Self-Construal Scale",2,6.0,"Cluster 06: NADA-T, MPS, SFoRC, IOS",True
+Self-Construal Scale",2,7.0,"Cluster 07: NADA-T, MPS, SFoRC, IOS",True
 (rrq - re): rumination-reflection questionnaire - reflection subscale,(RRQ - RE): Rumination-Reflection Questionnaire - Reflection subscale,2,focal_questionnaire,RRQ-RE,"(RRQ - RE):
 Rumination-Reflection
 Questionnaire - Reflection
-subscale",10,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+subscale",10,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (rrq - ru): rumination-reflection questionnaire - rumination subscale,(RRQ - RU): Rumination-Reflection Questionnaire - Rumination subscale,2,focal_questionnaire,RRQ-RU,"(RRQ - RU):
 Rumination-Reflection
 Questionnaire - Rumination
-subscale",6,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+subscale",6,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (rs): rigidity scale,(RS): Rigidity Scale,2,manual_related_inclusion,RS,"(RS):
-Rigidity Scale",4,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+Rigidity Scale",4,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (rsks): reflective self-knowledge scale,(RSKS): Reflective Self-Knowledge Scale,2,manual_related_inclusion,RSKS,"(RSKS):
 Reflective Self-Knowledge
-Scale",1,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Scale",1,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (rtc): resistance to change scale,(RTC): Resistance to Change Scale,2,focal_questionnaire,RTC,"(RTC):
-Resistance to Change Scale",2,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+Resistance to Change Scale",2,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (s -scs - ind): singelis self-construal scale - independent self-construal,(S -SCS - IND): Singelis Self-Construal Scale - independent self-construal,2,focal_questionnaire,S-SCS-IND,"(S -SCS - IND):
 Singelis Self-Construal
 Scale - independent self-
-construal",1,6.0,"Cluster 06: NADA-T, MPS, SFoRC, IOS",True
+construal",1,7.0,"Cluster 07: NADA-T, MPS, SFoRC, IOS",True
 (s -scs - int): singelis self-construal scale - independent self-construal,(S -SCS - INT): Singelis Self-Construal Scale - independent self-construal,2,focal_questionnaire,S-SCS-INT,"(S -SCS - INT):
 Singelis Self-Construal
 Scale - independent self-
-construal",6,7.0,"Cluster 07: S-SCS-INT, MQI-A, MQI-C, MQI-SE",True
+construal",6,8.0,"Cluster 08: S-SCS-INT, MQI-A, MQI-C, MQI-SE",True
 (sacs): self-as-context scale,(SACS): Self-as-Context Scale,2,focal_questionnaire,SACS,"(SACS):
 Self-as-Context Scale",5,3.0,"Cluster 03: AAQ-II, PHLMS-ACC, AAQ-I, TMS-D",True
 (sam - sk): self-awareness questionnaire - self-knowledge subscale,(SAM - SK): Self-Awareness Questionnaire - Self-Knowledge subscale,2,manual_related_inclusion,SAM-SK,"(SAM - SK):
@@ -263,13 +269,13 @@ Self-Awareness Questionnaire
 - Self-Knowledge subscale",1,5.0,"Cluster 05: MAAS, CAMS-R, AI, FMI",True
 (sas): sheldon's five-item authenticity scale,(SAS): Sheldon's five-item Authenticity Scale,2,manual_related_inclusion,SAS,"(SAS):
 Sheldon's five-item
-Authenticity Scale",1,6.0,"Cluster 06: NADA-T, MPS, SFoRC, IOS",True
+Authenticity Scale",1,7.0,"Cluster 07: NADA-T, MPS, SFoRC, IOS",True
 (scs - prsc): private self-consciousness scale,(SCS - PRSC): Private Self-Consciousness Scale,2,focal_questionnaire,SCS-PRSC,"(SCS - PRSC):
 Private Self-Consciousness
-Scale",13,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Scale",13,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (scs - pubsc): public self-consciousness scale,(SCS - PUBSC): public Self-Consciousness Scale,2,focal_questionnaire,SCS-PUBSC,"(SCS - PUBSC):
 public Self-Consciousness
-Scale",6,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Scale",6,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (sct - naspects): self-complexity task - number of self-aspect groups,(SCT - NASPECTS): Self-Complexity Task - number of self-aspect groups,2,focal_questionnaire,SCT-NASPECTS,"(SCT - NASPECTS):
 Self-Complexity Task -
 number of self-aspect groups",3,10.0,"Cluster 10: SCT-NASPECTS, H, SCT-OL",True
@@ -280,7 +286,7 @@ Mor",2,10.0,"Cluster 10: SCT-NASPECTS, H, SCT-OL",True
 (sct -dist): self-complexity task - average distinction among self-aspects,(SCT -DIST): Self-Complexity Task - average distinction among self-aspects,2,focal_questionnaire,SCT-DIST,"(SCT -DIST):
 Self-Complexity Task -
 average distinction among
-self-aspects",2,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+self-aspects",2,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (seq): self experiences questionnaire,(SEQ): Self Experiences Questionnaire,2,manual_related_inclusion,SEQ,"(SEQ):
 Self Experiences
 Questionnaire",2,3.0,"Cluster 03: AAQ-II, PHLMS-ACC, AAQ-I, TMS-D",True
@@ -290,10 +296,10 @@ General Self-Efficacy
 subscale",2,11.0,"Cluster 11: SES-GSE, CSES, NGSE",True
 (sforc): spatial frame of reference continuum,(SFoRC): Spatial Frame of Reference Continuum,2,focal_questionnaire,SFoRC,"(SFoRC):
 Spatial Frame of Reference
-Continuum",3,6.0,"Cluster 06: NADA-T, MPS, SFoRC, IOS",True
+Continuum",3,7.0,"Cluster 07: NADA-T, MPS, SFoRC, IOS",True
 (sin-c): single-item need for consistency scale,(SIN-C): Single-Item Need for Consistency Scale,2,focal_questionnaire,SIN-C,"(SIN-C):
 Single-Item Need for
-Consistency Scale",5,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+Consistency Scale",5,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (slcs - sc): self-liking/self-competence scale - self-competence subscale,(SLCS - SC): Self-Liking/Self-Competence Scale - Self-Competence subscale,2,focal_questionnaire,SLCS-SC,"(SLCS - SC):
 Self-Liking/Self-Competence
 Scale - Self-Competence
@@ -302,34 +308,34 @@ subscale",1,12.0,"Cluster 12: SLCS-SC, SLCS-SL",True
 Self-Liking/Self-Competence
 Scale - Self-Liking subscale",1,12.0,"Cluster 12: SLCS-SC, SLCS-SL",True
 (soas): sense of authenticity scale,(SOAS): Sense of Authenticity Scale,2,manual_related_inclusion,SOAS,"(SOAS):
-Sense of Authenticity Scale",2,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Sense of Authenticity Scale",2,6.0,"Cluster 06: FSC, PSCQ, PSC-N, PSC-S",True
 (tms - c): toronto mindfulness scale - curiosity subscale,(TMS - C): Toronto Mindfulness Scale - Curiosity subscale,2,focal_questionnaire,TMS-C,"(TMS - C):
 Toronto Mindfulness Scale -
-Curiosity subscale",1,1.0,"Cluster 01: SCC, SCS-PRSC, NCS, RRQ-RE",True
+Curiosity subscale",1,2.0,"Cluster 02: SCC, SCS-PRSC, NCS, RRQ-RE",True
 (tms - d): toronto mindfulness scale - decentering subscale,(TMS - D): Toronto Mindfulness Scale - Decentering subscale,2,focal_questionnaire,TMS-D,"(TMS - D):
 Toronto Mindfulness Scale -
 Decentering subscale",6,3.0,"Cluster 03: AAQ-II, PHLMS-ACC, AAQ-I, TMS-D",True
 (toa ): tolerance for ambiguity scale (lorsch & morse),(TOA ): Tolerance for Ambiguity Scale (Lorsch & Morse),2,manual_related_inclusion,TOA,"(TOA ):
 Tolerance for Ambiguity
-Scale (Lorsch & Morse)",1,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+Scale (Lorsch & Morse)",1,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (toa): intolerance of ambiguity scale (budner),(TOA): Intolerance of Ambiguity Scale (Budner),2,focal_questionnaire,TOA,"(TOA):
 Intolerance of Ambiguity
-Scale (Budner)",6,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+Scale (Budner)",6,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (toa): intolerance of ambiguity scale (martin & westie),(TOA): Intolerance of Ambiguity Scale (Martin & Westie),2,manual_related_inclusion,TOA,"(TOA):
 Intolerance of Ambiguity
-Scale (Martin & Westie)",1,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+Scale (Martin & Westie)",1,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (toa): intolerance of ambiguity scale (by eysenck),(TOA): Intolerance of Ambiguity Scale (by Eysenck),2,focal_questionnaire,TOA,"(TOA):
 Intolerance of Ambiguity
-Scale (by Eysenck)",4,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+Scale (by Eysenck)",4,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (toa): tolerance of ambiguity scale (macdonald/ rydell rosen),(TOA): Tolerance of Ambiguity Scale (MacDonald/ Rydell Rosen),2,focal_questionnaire,TOA,"(TOA):
 Tolerance of Ambiguity Scale
-(MacDonald/ Rydell Rosen)",7,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+(MacDonald/ Rydell Rosen)",7,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (toa): tolerance of ambiguity scale (norton),(TOA): Tolerance of Ambiguity Scale (Norton),2,focal_questionnaire,TOA,"(TOA):
 Tolerance of Ambiguity Scale
-(Norton)",5,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+(Norton)",5,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (uoi): uncertainty orientation inventory,(UOI): Uncertainty Orientation Inventory,2,focal_questionnaire,UOI,"(UOI):
 Uncertainty Orientation
-Inventory",1,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+Inventory",1,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
 (was): walk ambiguity scale (o'connor),(WAS): Walk Ambiguity Scale (O'Connor),2,focal_questionnaire,WAS,"(WAS):
 Walk Ambiguity Scale
-(O'Connor)",4,2.0,"Cluster 02: PFC, PNS, TOA, DS",True
+(O'Connor)",4,1.0,"Cluster 01: PFC, PNS, TOA, DS",True
