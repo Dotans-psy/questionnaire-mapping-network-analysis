@@ -81,12 +81,13 @@ data/database_validity_extraction.xlsx
 
 This workbook must include the same validity extraction columns plus `Tier`. The Tier 1+2 workflow includes focal questionnaires from tiers 1 and 2 that have at least one non-discriminant/non-divergent relationship row, plus the explicitly listed related-only questionnaires in the notebook. Duplicate questionnaire-pair edges are collapsed to one edge by keeping the largest absolute correlation value.
 
-Tier 1+2 clustering uses weighted Louvain community detection with absolute correlation size as the edge weight. Isolated nodes are saved in tables and omitted from Tier 1+2 figures for readability.
+Tier 1+2 clustering uses weighted Louvain community detection with absolute correlation size as the edge weight. Isolated nodes are saved in tables and omitted from Tier 1+2 figures for readability. Cluster-specific figures are generated only for Louvain clusters with at least four connected nodes, and each cluster figure is stored in its own folder under `outputs/figures/`.
 
 Additional Tier 1+2 outputs include:
 
 - `outputs/figures/tier_1_2_questionnaires_mapping_network.png` / `.pdf` / `.svg`
-- `outputs/figures/tier_1_2_cluster_XX_<slug>.png` / `.pdf` / `.svg` for each connected Louvain cluster
+- `outputs/figures/tier_1_2_main_network_questionnaires_mapping_network.png` / `.pdf` / `.svg`
+- `outputs/figures/tier_1_2_cluster_XX_<slug>/tier_1_2_cluster_XX_<slug>.png` / `.pdf` / `.svg` for each connected Louvain cluster with 4+ nodes
 - `outputs/tables/tier_1_2_cleaned_network_edges.csv`
 - `outputs/tables/tier_1_2_duplicate_pair_edges_QA.csv`
 - `outputs/tables/tier_1_2_network_nodes.csv`

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="550.08pt" height="470.698193pt" viewBox="0 0 550.08 470.698193" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-06-30T14:57:59.086173</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 470.698193 
+L 550.08 470.698193 
+L 550.08 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="LineCollection_1">
+    <path d="M 154.57024 359.791563 
+L 275.476048 203.401809 
+" clip-path="url(#p0f6a62a002)" style="fill: none; stroke-dasharray: 11.8474,5.1232; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 3.202"/>
+    <path d="M 154.57024 359.791563 
+L 85.7664 206.382722 
+" clip-path="url(#p0f6a62a002)" style="fill: none; stroke-dasharray: 11.2702,4.8736; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 3.046"/>
+    <path d="M 85.7664 206.382722 
+L 275.476048 203.401809 
+" clip-path="url(#p0f6a62a002)" style="fill: none; stroke-dasharray: 8.5766,3.7088; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 2.318"/>
+    <path d="M 275.476048 203.401809 
+L 464.3136 106.512984 
+" clip-path="url(#p0f6a62a002)" style="fill: none; stroke-dasharray: 5.4982,2.3776; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 1.486"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="7.2" y="14.480273" transform="rotate(-0 7.2 14.480273)">Cluster 09: FSC, FSCQ, MTSCS-FSC, MTSCS-PSC</text>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_1">
+     <path d="M 82.159375 456.774912 
+L 89.159375 456.774912 
+L 96.159375 456.774912 
+" style="fill: none; stroke: #d55e00; stroke-width: 2.4; stroke-linecap: square"/>
+    </g>
+    <g id="text_2">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="101.759375" y="459.224912" transform="rotate(-0 101.759375 459.224912)">Positive relation</text>
+    </g>
+    <g id="line2d_2">
+     <path d="M 165.170625 456.774912 
+L 172.170625 456.774912 
+L 179.170625 456.774912 
+" style="fill: none; stroke: #0072b2; stroke-width: 2.4; stroke-linecap: square"/>
+    </g>
+    <g id="text_3">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="184.770625" y="459.224912" transform="rotate(-0 184.770625 459.224912)">Negative relation</text>
+    </g>
+    <g id="line2d_3">
+     <path d="M 251.297969 456.774912 
+L 258.297969 456.774912 
+L 265.297969 456.774912 
+" style="fill: none"/>
+     <defs>
+      <path id="m9ef03ebcb4" d="M -4 4 
+L 4 4 
+L 4 -4 
+L -4 -4 
+z
+" style="stroke: #333333; stroke-linejoin: miter"/>
+     </defs>
+     <g>
+      <use xlink:href="#m9ef03ebcb4" x="258.297969" y="456.774912" style="fill: #f8f8f8; stroke: #333333; stroke-linejoin: miter"/>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="270.897969" y="459.224912" transform="rotate(-0 270.897969 459.224912)">Tier 1 node</text>
+    </g>
+    <g id="line2d_4">
+     <path d="M 320.045625 456.774912 
+L 327.045625 456.774912 
+L 334.045625 456.774912 
+" style="fill: none"/>
+     <defs>
+      <path id="m2e0145cc45" d="M 0 4 
+C 1.060812 4 2.078319 3.578535 2.828427 2.828427 
+C 3.578535 2.078319 4 1.060812 4 0 
+C 4 -1.060812 3.578535 -2.078319 2.828427 -2.828427 
+C 2.078319 -3.578535 1.060812 -4 0 -4 
+C -1.060812 -4 -2.078319 -3.578535 -2.828427 -2.828427 
+C -3.578535 -2.078319 -4 -1.060812 -4 0 
+C -4 1.060812 -3.578535 2.078319 -2.828427 2.828427 
+C -2.078319 3.578535 -1.060812 4 0 4 
+z
+" style="stroke: #333333"/>
+     </defs>
+     <g>
+      <use xlink:href="#m2e0145cc45" x="327.045625" y="456.774912" style="fill: #f8f8f8; stroke: #333333"/>
+     </g>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="339.645625" y="459.224912" transform="rotate(-0 339.645625 459.224912)">Tier 2 node</text>
+    </g>
+    <g id="line2d_5">
+     <path d="M 388.793281 456.774912 
+L 395.793281 456.774912 
+L 402.793281 456.774912 
+" style="fill: none; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #555555; stroke-width: 2"/>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="408.393281" y="459.224912" transform="rotate(-0 408.393281 459.224912)">Convergent validity</text>
+    </g>
+   </g>
+   <g id="text_7">
+    <g id="patch_2">
+     <path d="M 122.675224 368.753129 
+L 186.465256 368.753129 
+L 186.465256 350.829996 
+L 122.675224 350.829996 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #984ea3; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(143.617756 356.284602)">(FSCQ):</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(124.125224 361.292313)">Future Self-Continuity</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(135.073178 366.702399)">Questionnaire</text>
+   </g>
+   <g id="text_8">
+    <g id="patch_3">
+     <path d="M 46.991134 217.848144 
+L 124.541666 217.848144 
+L 124.541666 194.9173 
+L 46.991134 194.9173 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #984ea3; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(65.953962 200.371905)">(MTSCS-FSC):</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(48.441134 205.382335)">Multidimensional Temporal</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(54.992869 210.387327)">Self-Continuity Scale -</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(55.321384 215.395038)">Future Self-Continuity</text>
+   </g>
+   <g id="text_9">
+    <g id="patch_4">
+     <path d="M 243.581032 212.363376 
+L 307.371063 212.363376 
+L 307.371063 194.440243 
+L 243.581032 194.440243 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #984ea3; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(266.77922 199.894848)">(FSC):</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(245.031032 204.902559)">Future Self-Continuity</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(268.219704 210.451301)">scale</text>
+   </g>
+   <g id="text_10">
+    <g id="patch_5">
+     <path d="M 425.538334 117.978406 
+L 503.088866 117.978406 
+L 503.088866 95.047562 
+L 425.538334 95.047562 
+z
+" style="fill: #f8f8f8; opacity: 0.98; stroke: #984ea3; stroke-width: 2.35; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(444.338037 100.502168)">(MTSCS-PSC):</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(426.988334 105.512597)">Multidimensional Temporal</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(433.540069 110.51759)">Self-Continuity Scale -</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(436.764053 115.5253)">Past Self-Continuity</text>
+   </g>
+   <g id="text_11">
+    <g id="patch_6">
+     <path d="M 211.787831 287.185148 
+L 224.313222 287.185148 
+Q 224.737222 287.185148 224.737222 286.761148 
+L 224.737222 281.787222 
+Q 224.737222 281.363222 224.313222 281.363222 
+L 211.787831 281.363222 
+Q 211.363831 281.363222 211.363831 281.787222 
+L 211.363831 286.761148 
+Q 211.363831 287.185148 211.787831 287.185148 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="218.050527" y="285.645767" transform="rotate(-0 218.050527 285.645767)">r=.51</text>
+   </g>
+   <g id="text_12">
+    <g id="patch_7">
+     <path d="M 110.363745 287.815374 
+L 122.889136 287.815374 
+Q 123.313136 287.815374 123.313136 287.391374 
+L 123.313136 282.417448 
+Q 123.313136 281.993448 122.889136 281.993448 
+L 110.363745 281.993448 
+Q 109.939745 281.993448 109.939745 282.417448 
+L 109.939745 287.391374 
+Q 109.939745 287.815374 110.363745 287.815374 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="116.626441" y="286.275993" transform="rotate(-0 116.626441 286.275993)">r=.48</text>
+   </g>
+   <g id="text_13">
+    <g id="patch_8">
+     <path d="M 174.300824 203.602046 
+L 186.826215 203.602046 
+Q 187.250215 203.602046 187.250215 203.178046 
+L 187.250215 198.20412 
+Q 187.250215 197.78012 186.826215 197.78012 
+L 174.300824 197.78012 
+Q 173.876824 197.78012 173.876824 198.20412 
+L 173.876824 203.178046 
+Q 173.876824 203.602046 174.300824 203.602046 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="180.56352" y="202.062665" transform="rotate(-0 180.56352 202.062665)">r=.34</text>
+   </g>
+   <g id="text_14">
+    <g id="patch_9">
+     <path d="M 365.331184 161.656667 
+L 377.856575 161.656667 
+Q 378.280575 161.656667 378.280575 161.232667 
+L 378.280575 156.258742 
+Q 378.280575 155.834742 377.856575 155.834742 
+L 365.331184 155.834742 
+Q 364.907184 155.834742 364.907184 156.258742 
+L 364.907184 161.232667 
+Q 364.907184 161.656667 365.331184 161.656667 
+z
+" style="fill: #ffffff; opacity: 0.88"/>
+    </g>
+    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="371.593879" y="160.117287" transform="rotate(-0 371.593879 160.117287)">r=.18</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0f6a62a002">
+   <rect x="7.2" y="22.480273" width="535.68" height="421.344"/>
+  </clipPath>
+ </defs>
+</svg>
