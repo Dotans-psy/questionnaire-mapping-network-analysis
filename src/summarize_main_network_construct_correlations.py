@@ -4,7 +4,8 @@ The script defines the main network as the largest connected component in the
 Tier 1+2 cleaned edge list, then scans the full database workbook for rows
 whose focal questionnaire is in that main component and whose related
 questionnaire contains Self-Esteem or Authenticity. Significance is not used as
-a filter, so non-significant and unclear rows are retained.
+a filter, so non-significant and unclear rows are retained. The workbook also
+includes Tier 1-only sheets using the focal questionnaire Tier column.
 """
 
 from __future__ import annotations
@@ -34,6 +35,7 @@ REQUIRED_DATABASE_COLUMNS = [
     "related_questionnaire",
     "relation_value",
     "significance",
+    "Tier",
 ]
 
 
@@ -75,6 +77,14 @@ def focal_count_key(questionnaire: object) -> str:
     return acronym
 
 
+def parse_tier(value: object) -> int | None:
+    text = clean_text(value)
+    match = re.search(r"\d+", text)
+    if not match:
+        return None
+    return int(match.group(0))
+
+
 def load_database() -> pd.DataFrame:
     raw = pd.read_excel(DATABASE_PATH)
     canonical_to_actual = {canonical_column(column): column for column in raw.columns}
@@ -107,6 +117,7 @@ def load_database() -> pd.DataFrame:
     df["focal_questionnaire"] = df["focal_questionnaire"].map(clean_text)
     df["related_questionnaire"] = df["related_questionnaire"].map(clean_text)
     df["significance"] = df["significance"].map(clean_text)
+    df["tier_numeric"] = df["Tier"].map(parse_tier)
     df["focal_key"] = df["focal_questionnaire"].map(questionnaire_key)
     df["focal_count_key"] = df["focal_questionnaire"].map(focal_count_key)
     return df
@@ -121,14 +132,24 @@ def main_component_node_keys() -> set[str]:
     return set(max(nx.connected_components(graph), key=len))
 
 
-def construct_table(df: pd.DataFrame, main_nodes: set[str], construct: str, pattern: re.Pattern[str]) -> pd.DataFrame:
+def construct_table(
+    df: pd.DataFrame,
+    main_nodes: set[str],
+    construct: str,
+    pattern: re.Pattern[str],
+    tier_filter: int | None = None,
+) -> pd.DataFrame:
     related_matches = df["related_questionnaire"].str.contains(pattern, na=False)
     focal_in_main = df["focal_key"].isin(main_nodes)
-    table = df.loc[related_matches & focal_in_main].copy()
+    mask = related_matches & focal_in_main
+    if tier_filter is not None:
+        mask &= df["tier_numeric"].eq(tier_filter)
+    table = df.loc[mask].copy()
 
     columns = [
         "focal_questionnaire",
         "focal_count_key",
+        "Tier",
         "related_questionnaire",
         "relation_value",
         "significance",
@@ -139,6 +160,7 @@ def construct_table(df: pd.DataFrame, main_nodes: set[str], construct: str, patt
     table = table[columns].rename(columns={
         "focal_questionnaire": "focal_questionnaire_correlated_with_construct",
         "focal_count_key": "focal_questionnaire_count_key",
+        "Tier": "focal_tier",
         "related_questionnaire": "related_scale",
         "relation_value": "correlation_value",
     })
@@ -194,22 +216,39 @@ def main() -> None:
         construct: construct_table(df, main_nodes, construct, pattern)
         for construct, pattern in CONSTRUCTS.items()
     }
+    tier_1_tables = {
+        construct: construct_table(df, main_nodes, construct, pattern, tier_filter=1)
+        for construct, pattern in CONSTRUCTS.items()
+    }
+    workbook_tables = {
+        "Self-Esteem": tables["Self-Esteem"],
+        "Authenticity": tables["Authenticity"],
+        "Tier 1 Self-Esteem": tier_1_tables["Self-Esteem"],
+        "Tier 1 Authenticity": tier_1_tables["Authenticity"],
+    }
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     with pd.ExcelWriter(OUTPUT_PATH, engine="openpyxl") as writer:
-        for construct, table in tables.items():
-            write_construct_sheet(writer, construct, table)
+        for sheet_name, table in workbook_tables.items():
+            write_construct_sheet(writer, sheet_name, table)
     format_workbook(OUTPUT_PATH)
 
-    summary = pd.DataFrame([
-        {
-            "construct": construct,
-            "unique_focal_questionnaire_count": table["focal_questionnaire_count_key"].nunique(),
-            "row_count": len(table),
-            "unique_related_scale_count": table["related_scale"].nunique(),
-        }
-        for construct, table in tables.items()
-    ])
+    summary_rows = []
+    for scope, scoped_tables in [
+        ("Main network", tables),
+        ("Main network Tier 1", tier_1_tables),
+    ]:
+        summary_rows.extend(
+            {
+                "scope": scope,
+                "construct": construct,
+                "unique_focal_questionnaire_count": table["focal_questionnaire_count_key"].nunique(),
+                "row_count": len(table),
+                "unique_related_scale_count": table["related_scale"].nunique(),
+            }
+            for construct, table in scoped_tables.items()
+        )
+    summary = pd.DataFrame(summary_rows)
 
     print("\nMain-network construct correlation summary")
     print(summary.to_string(index=False))
