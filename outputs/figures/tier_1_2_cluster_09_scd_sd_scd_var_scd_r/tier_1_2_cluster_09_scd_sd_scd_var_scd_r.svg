@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-07-01T10:53:13.086963</dc:date>
+    <dc:date>2026-07-01T11:04:54.802462</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -30,26 +30,26 @@ z
   </g>
   <g id="axes_1">
    <g id="LineCollection_1">
-    <path d="M 374.831807 168.855438 
-L 259.011754 84.277393 
-" clip-path="url(#pcafa069ee6)" style="fill: none; stroke-dasharray: 18.389,7.952; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 4.97"/>
-    <path d="M 374.831807 168.855438 
-L 175.248193 173.824208 
-" clip-path="url(#pcafa069ee6)" style="fill: none; stroke-dasharray: 17.6194,7.6192; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 4.762"/>
-    <path d="M 259.011754 84.277393 
-L 175.248193 173.824208 
-" clip-path="url(#pcafa069ee6)" style="fill: none; stroke-dasharray: 10.8854,4.7072; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 2.942"/>
+    <path d="M 401.31466 204.510373 
+L 458.600432 84.277393 
+" clip-path="url(#pdbd3eeb432)" style="fill: none; stroke-dasharray: 10.8854,4.7072; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 2.942"/>
+    <path d="M 401.31466 204.510373 
+L 301.213169 138.152864 
+" clip-path="url(#pdbd3eeb432)" style="fill: none; stroke-dasharray: 17.6194,7.6192; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 4.762"/>
+    <path d="M 458.600432 84.277393 
+L 301.213169 138.152864 
+" clip-path="url(#pdbd3eeb432)" style="fill: none; stroke-dasharray: 18.389,7.952; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.78; stroke-width: 4.97"/>
    </g>
    <g id="LineCollection_2">
-    <path d="M 313.827665 382.027153 
-L 293.222601 270.104306 
-" clip-path="url(#pcafa069ee6)" style="fill: none; stroke: #0072b2; stroke-opacity: 0.78; stroke-width: 5.49"/>
-    <path d="M 374.831807 168.855438 
-L 293.222601 270.104306 
-" clip-path="url(#pcafa069ee6)" style="fill: none; stroke: #0072b2; stroke-opacity: 0.78; stroke-width: 2.006"/>
-    <path d="M 293.222601 270.104306 
-L 175.248193 173.824208 
-" clip-path="url(#pcafa069ee6)" style="fill: none; stroke: #0072b2; stroke-opacity: 0.78; stroke-width: 5.49"/>
+    <path d="M 401.31466 204.510373 
+L 229.460006 270.119478 
+" clip-path="url(#pdbd3eeb432)" style="fill: none; stroke: #0072b2; stroke-opacity: 0.78; stroke-width: 5.49"/>
+    <path d="M 229.460006 270.119478 
+L 91.479568 382.027153 
+" clip-path="url(#pdbd3eeb432)" style="fill: none; stroke: #0072b2; stroke-opacity: 0.78; stroke-width: 5.49"/>
+    <path d="M 229.460006 270.119478 
+L 301.213169 138.152864 
+" clip-path="url(#pdbd3eeb432)" style="fill: none; stroke: #0072b2; stroke-opacity: 0.78; stroke-width: 2.006"/>
    </g>
    <g id="text_1">
     <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="7.2" y="14.480273" transform="rotate(-0 7.2 14.480273)">Cluster 09: SCD-SD, SCD-VAR, SCD-R, SCD-CSD</text>
@@ -79,7 +79,7 @@ L 216.987578 456.774912
 L 223.987578 456.774912 
 " style="fill: none"/>
      <defs>
-      <path id="m0146f70749" d="M -4 4 
+      <path id="med7249a361" d="M -4 4 
 L 4 4 
 L 4 -4 
 L -4 -4 
@@ -87,7 +87,7 @@ z
 " style="stroke: #333333; stroke-linejoin: miter"/>
      </defs>
      <g>
-      <use xlink:href="#m0146f70749" x="216.987578" y="456.774912" style="fill: #f8f8f8; stroke: #333333; stroke-linejoin: miter"/>
+      <use xlink:href="#med7249a361" x="216.987578" y="456.774912" style="fill: #f8f8f8; stroke: #333333; stroke-linejoin: miter"/>
      </g>
     </g>
     <g id="text_4">
@@ -99,7 +99,7 @@ L 285.735234 456.774912
 L 292.735234 456.774912 
 " style="fill: none"/>
      <defs>
-      <path id="m80e12da94c" d="M 0 4 
+      <path id="md7aea01014" d="M 0 4 
 C 1.060812 4 2.078319 3.578535 2.828427 2.828427 
 C 3.578535 2.078319 4 1.060812 4 0 
 C 4 -1.060812 3.578535 -2.078319 2.828427 -2.828427 
@@ -112,7 +112,7 @@ z
 " style="stroke: #333333"/>
      </defs>
      <g>
-      <use xlink:href="#m80e12da94c" x="285.735234" y="456.774912" style="fill: #f8f8f8; stroke: #333333"/>
+      <use xlink:href="#md7aea01014" x="285.735234" y="456.774912" style="fill: #f8f8f8; stroke: #333333"/>
      </g>
     </g>
     <g id="text_5">
@@ -139,175 +139,175 @@ L 454.610234 456.774912
    </g>
    <g id="text_8">
     <g id="patch_2">
-     <path d="M 277.253227 393.492575 
-L 350.402102 393.492575 
-L 350.402102 370.561732 
-L 277.253227 370.561732 
+     <path d="M 367.641582 215.975795 
+L 434.987739 215.975795 
+L 434.987739 193.044951 
+L 367.641582 193.044951 
 z
 " style="fill: #f8f8f8; opacity: 0.98; stroke: #984ea3; stroke-width: 2.35; stroke-linejoin: miter"/>
     </g>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(306.419524 376.016337)">(Phi):</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(278.703227 381.024048)">Self-Concept sorting task</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(280.313634 386.069821)">adapted for self concept</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(283.376305 391.077532)">Compartmentalization</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(385.581254 198.499557)">SCD (VAR):</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(383.431629 203.54533)">Self-Concept</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(369.091582 208.514978)">Differentiation index by</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(389.232989 214.063721)">donahue</text>
    </g>
    <g id="text_9">
     <g id="patch_3">
-     <path d="M 341.158729 180.32086 
-L 408.504885 180.32086 
-L 408.504885 157.390016 
-L 341.158729 157.390016 
+     <path d="M 200.2996 281.5849 
+L 258.620412 281.5849 
+L 258.620412 258.654057 
+L 200.2996 258.654057 
 z
 " style="fill: #f8f8f8; opacity: 0.98; stroke: #984ea3; stroke-width: 2.35; stroke-linejoin: miter"/>
     </g>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(360.97751 162.844622)">SCD (SD):</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(356.948776 167.890395)">Self-Concept</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(342.608729 172.860044)">Differentiation index by</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(367.900807 177.867755)">Styła</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(217.5401 264.108662)">SCD (R):</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(212.380365 269.154435)">self-concept</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(201.7496 274.700459)">differentiation index</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(216.889412 279.134514)">campbell</text>
    </g>
    <g id="text_10">
     <g id="patch_4">
-     <path d="M 264.062195 281.569728 
-L 322.383007 281.569728 
-L 322.383007 258.638884 
-L 264.062195 258.638884 
+     <path d="M 427.345682 98.246671 
+L 489.855182 98.246671 
+L 489.855182 70.308116 
+L 427.345682 70.308116 
 z
 " style="fill: #f8f8f8; opacity: 0.98; stroke: #984ea3; stroke-width: 2.35; stroke-linejoin: miter"/>
     </g>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(281.302695 264.09349)">SCD (R):</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(276.14296 269.139263)">self-concept</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(265.512195 274.685287)">differentiation index</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(280.652007 279.119341)">campbell</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(440.880526 75.762722)">(SCD - CSD):</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(440.717401 80.808495)">Self-Concept</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(428.795682 86.354518)">Differentiation index -</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(430.556526 91.326886)">corrected cross-role</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(432.819886 96.334597)">standard deviation</text>
    </g>
    <g id="text_11">
     <g id="patch_5">
-     <path d="M 227.757004 98.246671 
-L 290.266504 98.246671 
-L 290.266504 70.308116 
-L 227.757004 70.308116 
+     <path d="M 267.54009 149.618286 
+L 334.886247 149.618286 
+L 334.886247 126.687442 
+L 267.54009 126.687442 
 z
 " style="fill: #f8f8f8; opacity: 0.98; stroke: #984ea3; stroke-width: 2.35; stroke-linejoin: miter"/>
     </g>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(241.291848 75.762722)">(SCD - CSD):</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(241.128723 80.808495)">Self-Concept</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(229.207004 86.354518)">Differentiation index -</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(230.967848 91.326886)">corrected cross-role</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(233.231207 96.334597)">standard deviation</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(287.358872 132.142048)">SCD (SD):</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(283.330137 137.187821)">Self-Concept</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(268.99009 142.15747)">Differentiation index by</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(294.282169 147.165181)">Styła</text>
    </g>
    <g id="text_12">
     <g id="patch_6">
-     <path d="M 141.575115 185.28963 
-L 208.921271 185.28963 
-L 208.921271 162.358786 
-L 141.575115 162.358786 
+     <path d="M 54.90513 393.492575 
+L 128.054005 393.492575 
+L 128.054005 370.561732 
+L 54.90513 370.561732 
 z
 " style="fill: #f8f8f8; opacity: 0.98; stroke: #984ea3; stroke-width: 2.35; stroke-linejoin: miter"/>
     </g>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(159.514786 167.813392)">SCD (VAR):</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(157.365161 172.859165)">Self-Concept</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(143.025115 177.828814)">Differentiation index by</text>
-    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(163.166521 183.377556)">donahue</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(84.071427 376.016337)">(Phi):</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(56.35513 381.024048)">Self-Concept sorting task</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(57.965536 386.069821)">adapted for self concept</text>
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(61.028208 391.077532)">Compartmentalization</text>
    </g>
    <g id="text_13">
     <g id="patch_7">
-     <path d="M 287.99685 329.185399 
-L 302.286975 329.185399 
-Q 302.710975 329.185399 302.710975 328.761399 
-L 302.710975 323.787473 
-Q 302.710975 323.363473 302.286975 323.363473 
-L 287.99685 323.363473 
-Q 287.57285 323.363473 287.57285 323.787473 
-L 287.57285 328.761399 
-Q 287.57285 329.185399 287.99685 329.185399 
+     <path d="M 427.673047 148.32391 
+L 440.198438 148.32391 
+Q 440.622438 148.32391 440.622438 147.89991 
+L 440.622438 142.925984 
+Q 440.622438 142.501984 440.198438 142.501984 
+L 427.673047 142.501984 
+Q 427.249047 142.501984 427.249047 142.925984 
+L 427.249047 147.89991 
+Q 427.249047 148.32391 427.673047 148.32391 
 z
 " style="fill: #ffffff; opacity: 0.88"/>
     </g>
-    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="295.141913" y="327.646018" transform="rotate(-0 295.141913 327.646018)">r=-.95</text>
+    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="433.935742" y="146.784529" transform="rotate(-0 433.935742 146.784529)">r=.46</text>
    </g>
    <g id="text_14">
     <g id="patch_8">
-     <path d="M 318.16368 128.087675 
-L 330.68907 128.087675 
-Q 331.11307 128.087675 331.11307 127.663675 
-L 331.11307 122.68975 
-Q 331.11307 122.26575 330.68907 122.26575 
-L 318.16368 122.26575 
-Q 317.73968 122.26575 317.73968 122.68975 
-L 317.73968 127.663675 
-Q 317.73968 128.087675 318.16368 128.087675 
+     <path d="M 310.188352 242.966516 
+L 324.478477 242.966516 
+Q 324.902477 242.966516 324.902477 242.542516 
+L 324.902477 237.568591 
+Q 324.902477 237.144591 324.478477 237.144591 
+L 310.188352 237.144591 
+Q 309.764352 237.144591 309.764352 237.568591 
+L 309.764352 242.542516 
+Q 309.764352 242.966516 310.188352 242.966516 
 z
 " style="fill: #ffffff; opacity: 0.88"/>
     </g>
-    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="324.426375" y="126.548295" transform="rotate(-0 324.426375 126.548295)">r=.85</text>
+    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="317.333415" y="241.427136" transform="rotate(-0 317.333415 241.427136)">r=-.95</text>
    </g>
    <g id="text_15">
     <g id="patch_9">
-     <path d="M 334.938121 223.268919 
-L 349.228246 223.268919 
-Q 349.652246 223.268919 349.652246 222.844919 
-L 349.652246 217.870993 
-Q 349.652246 217.446993 349.228246 217.446993 
-L 334.938121 217.446993 
-Q 334.514121 217.446993 334.514121 217.870993 
-L 334.514121 222.844919 
-Q 334.514121 223.268919 334.938121 223.268919 
+     <path d="M 347.827249 171.950558 
+L 360.35264 171.950558 
+Q 360.77664 171.950558 360.77664 171.526558 
+L 360.77664 166.552632 
+Q 360.77664 166.128632 360.35264 166.128632 
+L 347.827249 166.128632 
+Q 347.403249 166.128632 347.403249 166.552632 
+L 347.403249 171.526558 
+Q 347.403249 171.950558 347.827249 171.950558 
 z
 " style="fill: #ffffff; opacity: 0.88"/>
     </g>
-    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="342.083183" y="221.729538" transform="rotate(-0 342.083183 221.729538)">r=-.28</text>
+    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="354.089945" y="170.411177" transform="rotate(-0 354.089945 170.411177)">r=.81</text>
    </g>
    <g id="text_16">
     <g id="patch_10">
-     <path d="M 268.209759 171.167987 
-L 280.73515 171.167987 
-Q 281.15915 171.167987 281.15915 170.743987 
-L 281.15915 165.770061 
-Q 281.15915 165.346061 280.73515 165.346061 
-L 268.209759 165.346061 
-Q 267.785759 165.346061 267.785759 165.770061 
-L 267.785759 170.743987 
-Q 267.785759 171.167987 268.209759 171.167987 
+     <path d="M 156.450611 331.056436 
+L 170.740736 331.056436 
+Q 171.164736 331.056436 171.164736 330.632436 
+L 171.164736 325.65851 
+Q 171.164736 325.23451 170.740736 325.23451 
+L 156.450611 325.23451 
+Q 156.026611 325.23451 156.026611 325.65851 
+L 156.026611 330.632436 
+Q 156.026611 331.056436 156.450611 331.056436 
 z
 " style="fill: #ffffff; opacity: 0.88"/>
     </g>
-    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="274.472455" y="169.628606" transform="rotate(-0 274.472455 169.628606)">r=.81</text>
+    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="163.595673" y="329.517055" transform="rotate(-0 163.595673 329.517055)">r=-.95</text>
    </g>
    <g id="text_17">
     <g id="patch_11">
-     <path d="M 219.429701 226.14458 
-L 233.719826 226.14458 
-Q 234.143826 226.14458 234.143826 225.72058 
-L 234.143826 220.746654 
-Q 234.143826 220.322654 233.719826 220.322654 
-L 219.429701 220.322654 
-Q 219.005701 220.322654 219.005701 220.746654 
-L 219.005701 225.72058 
-Q 219.005701 226.14458 219.429701 226.14458 
+     <path d="M 254.277163 205.902861 
+L 268.567288 205.902861 
+Q 268.991288 205.902861 268.991288 205.478861 
+L 268.991288 200.504935 
+Q 268.991288 200.080935 268.567288 200.080935 
+L 254.277163 200.080935 
+Q 253.853163 200.080935 253.853163 200.504935 
+L 253.853163 205.478861 
+Q 253.853163 205.902861 254.277163 205.902861 
 z
 " style="fill: #ffffff; opacity: 0.88"/>
     </g>
-    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="226.574763" y="224.605199" transform="rotate(-0 226.574763 224.605199)">r=-.95</text>
+    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="261.422226" y="204.36348" transform="rotate(-0 261.422226 204.36348)">r=-.28</text>
    </g>
    <g id="text_18">
     <g id="patch_12">
-     <path d="M 202.921806 130.9567 
-L 215.447196 130.9567 
-Q 215.871196 130.9567 215.871196 130.5327 
-L 215.871196 125.558774 
-Q 215.871196 125.134774 215.447196 125.134774 
-L 202.921806 125.134774 
-Q 202.497806 125.134774 202.497806 125.558774 
-L 202.497806 130.5327 
-Q 202.497806 130.9567 202.921806 130.9567 
+     <path d="M 371.861506 111.326311 
+L 384.386897 111.326311 
+Q 384.810897 111.326311 384.810897 110.902311 
+L 384.810897 105.928385 
+Q 384.810897 105.504385 384.386897 105.504385 
+L 371.861506 105.504385 
+Q 371.437506 105.504385 371.437506 105.928385 
+L 371.437506 110.902311 
+Q 371.437506 111.326311 371.861506 111.326311 
 z
 " style="fill: #ffffff; opacity: 0.88"/>
     </g>
-    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="209.184501" y="129.417319" transform="rotate(-0 209.184501 129.417319)">r=.46</text>
+    <text style="font-weight: 700; font-size: 5.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="378.124202" y="109.78693" transform="rotate(-0 378.124202 109.78693)">r=.85</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pcafa069ee6">
+  <clipPath id="pdbd3eeb432">
    <rect x="7.2" y="22.480273" width="535.68" height="421.344"/>
   </clipPath>
  </defs>
